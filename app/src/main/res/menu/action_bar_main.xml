@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Search will be displayed when clicked on the overflow icon -->
+    <item
+        android:id="@+id/first_aid"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/ic_first_aid"
+        android:title="@string/first_aid"
+        app:showAsAction="collapseActionView|ifRoom" />
+
+    <item
+        android:id="@+id/menu_overflow"
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        android:orderInCategory="11111"
+        android:title="menu"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/about"
+                app:showAsAction="never"
+                android:actionMenuTextColor="#2e2f30"
+                android:title="@string/about"
+                />
+        </menu>
+    </item>
+
+
+</menu>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView01"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:scrollbars="none">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient"
+            android:orientation="vertical">
+
+            <RatingBar
+                android:id="@+id/five_rating"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="40dp"
+                android:isIndicator="true"
+                android:numStars="5"
+                android:progressBackgroundTint="@android:color/white"
+                android:progressTint="@android:color/holo_red_dark"
+                android:secondaryProgressTint="@android:color/holo_red_dark"
+                android:stepSize="0.1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@+id/five_rating"
+                android:layout_marginLeft="48dp"
+                android:layout_marginStart="48dp"
+                android:layout_toEndOf="@+id/five_rating"
+                android:layout_toRightOf="@+id/five_rating"
+                android:text="@string/five_rating_bar" />
+
+            <RatingBar
+                android:id="@+id/four_rating"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/five_rating"
+                android:layout_marginTop="30dp"
+                android:isIndicator="true"
+                android:numStars="5"
+                android:progressBackgroundTint="@android:color/white"
+                android:progressTint="@android:color/holo_red_dark"
+                android:secondaryProgressTint="@android:color/holo_red_dark"
+                android:stepSize="0.1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/four_rating"
+                android:layout_marginLeft="48dp"
+                android:layout_marginStart="48dp"
+                android:layout_toEndOf="@id/four_rating"
+                android:layout_toRightOf="@id/four_rating"
+                android:text="@string/four_rating_bar" />
+
+            <RatingBar
+                android:id="@+id/three_rating"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/four_rating"
+                android:layout_marginTop="30dp"
+                android:isIndicator="true"
+                android:numStars="5"
+                android:progressBackgroundTint="@android:color/white"
+                android:progressTint="@android:color/holo_red_dark"
+                android:secondaryProgressTint="@android:color/holo_red_dark"
+                android:stepSize="0.1" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/three_rating"
+                android:layout_marginLeft="48dp"
+                android:layout_marginStart="48dp"
+                android:layout_toEndOf="@id/three_rating"
+                android:layout_toRightOf="@id/three_rating"
+                android:text="@string/three_rating_bar" />
+
+            <RatingBar
+                android:id="@+id/two_rating"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/three_rating"
+                android:layout_marginTop="30dp"
+                android:isIndicator="true"
+                android:numStars="5"
+                android:progressBackgroundTint="@android:color/white"
+                android:progressTint="@android:color/holo_red_dark"
+                android:secondaryProgressTint="@android:color/holo_red_dark"
+                android:stepSize="0.1" />
+
+            <TextView
+                android:id="@+id/dangerous_snake"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/two_rating"
+                android:layout_marginLeft="48dp"
+                android:layout_marginStart="48dp"
+                android:layout_toEndOf="@id/two_rating"
+                android:layout_toRightOf="@id/two_rating"
+                android:text="@string/two_rating_bar" />
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/dangerous_snake"
+                android:layout_marginTop="20dp"
+                android:background="#ec6bc1" />
+
+            <TextView
+                android:id="@+id/least_concern"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/two_rating"
+                android:layout_marginTop="50dp"
+                android:background="@drawable/transparent_back"
+                android:text="@string/least_concern_wildlife"
+                android:layout_centerInParent="true"
+                android:textColor= "#fff"/>
+
+            <TextView
+                android:id="@+id/least"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/least_concern"
+                android:layout_below="@id/least_concern"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/near_threatened"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/least"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/transparent_back"
+                android:text="@string/near_threatened"
+                android:layout_centerInParent="true"
+                android:textColor="#fff"/>
+
+            <TextView
+                android:id="@+id/threatened"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/threatened"
+                android:layout_below="@id/near_threatened"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/vulnerable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/threatened"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/transparent_back"
+                android:text="@string/vulnerable"
+                android:layout_centerInParent="true"
+                android:textColor="#fff"/>
+
+            <TextView
+                android:id="@+id/vul"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/vulnerable_ex"
+                android:layout_below="@id/vulnerable"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/endangered"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/vul"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/transparent_back"
+                android:text="@string/endangered"
+                android:layout_centerInParent="true"
+                android:textColor="#fff"/>
+
+            <TextView
+                android:id="@+id/dangered"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/endangered_ex"
+                android:layout_below="@id/endangered"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/critically_endangered"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/dangered"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/transparent_back"
+                android:text="@string/critically_endangered"
+                android:layout_centerInParent="true"
+                android:textColor="#fff"/>
+
+            <TextView
+                android:id="@+id/critically_endangered_ex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/critically"
+                android:layout_below="@id/critically_endangered"
+                android:layout_marginTop="20dp"/>
+
+            <TextView
+                android:id="@+id/data_deficient"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/data_deficient"
+                android:layout_below="@id/critically_endangered_ex"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/transparent_back"
+                android:layout_centerInParent="true"
+                android:textColor="#fff"/>
+
+            <TextView
+                android:id="@+id/data_deficient_ex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/data_deficient_ex"
+                android:layout_below="@id/data_deficient"
+                android:layout_marginTop="20dp"/>
+
+            <View
+                android:id="@+id/line1"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@id/data_deficient_ex"
+                android:layout_marginTop="20dp"
+                android:background="#ec6bc1" />
+
+            <TextView
+                android:id="@+id/about"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/line1"
+                android:layout_marginTop="30dp"
+                android:text="@string/about_app" />
+
+            <TextView
+                android:id="@+id/feedback"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/feedback"
+                android:layout_below="@id/about"
+                android:layout_marginTop="30dp" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/email"
+                android:layout_below="@id/feedback"
+                android:autoLink="email"/>
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_below="@id/email"/>
+
+        </RelativeLayout>
+</ScrollView>

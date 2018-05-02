@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.venmoussnakes">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".SplashActivity" android:theme="@style/SplashTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".MainActivity"
+            android:launchMode="singleTask">
+            <!--&lt;!&ndash;<meta-data android:name="android.app.default_searchable"
+                android:value=".ResultsActivity" />-->
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+
+
+        <activity android:name=".Info" />
+        <activity android:name=".snakeInformations.CommonKraitInfo" />
+        <activity android:name=".snakeInformations.CoastalTaipanInfo" />
+        <activity android:name=".snakeInformations.IndianCobraInfo" />
+        <activity android:name=".snakeInformations.KingCobraInfo" />
+        <activity android:name=".snakeInformations.RussellsViperInfo" />
+        <activity android:name=".snakeInformations.SawScaledViper" />
+        <activity android:name=".snakeInformations.InlandTaipanInfo" />
+        <activity android:name=".snakeInformations.EasternBrownSnakeInfo" />
+        <activity android:name=".snakeInformations.YellowBelliedSeaSnakeInfo" />
+        <activity android:name=".snakeInformations.ManyBrandedKraitInfo" />
+        <activity android:name=".snakeInformations.TigerSnakeInfo" />
+        <activity android:name=".snakeInformations.CommonDeathAdderInfo" />
+        <activity android:name=".snakeInformations.BlackBandedSeaKrait" />
+        <activity android:name=".snakeInformations.RedHeadedKraitInfo" />
+        <activity android:name=".snakeInformations.MalayanKraitInfo" />
+        <activity android:name=".snakeInformations.WesternGreenMambaInfo" />
+        <activity android:name=".snakeInformations.EasternGreenMambaInfo" />
+        <activity android:name=".snakeInformations.JamesonsMambaInfo" />
+        <activity android:name=".snakeInformations.CaspianCobraInfo" />
+        <activity android:name=".snakeInformations.ForestCobraInfo" />
+        <activity android:name=".snakeInformations.PhilippineCobraInfo" />
+        <activity android:name=".snakeInformations.CapeCobraInfo" />
+        <activity android:name=".snakeInformations.JararacaInfo" />
+        <activity android:name=".snakeInformations.SouthAmericanBushMasterInfo" />
+        <activity android:name=".snakeInformations.GaboonViperInfo" />
+        <activity android:name=".snakeInformations.ChineseCobraInfo" />
+        <activity android:name=".snakeInformations.MonocledCobraInfo" />
+        <activity android:name=".snakeInformations.EgyptianCobraInfo" />
+        <activity android:name=".snakeInformations.BandedWaterCobraInfo" />
+        <activity android:name=".snakeInformations.CongoWaterCobraInfo" />
+        <activity android:name=".snakeInformations.BlackDesertCobra" />
+        <activity android:name=".snakeInformations.KatianSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.MozambiqueSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.ZebraSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.BlackNeckedSpittingCobra" />
+        <activity android:name=".snakeInformations.RedSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.SamarCobraInfo" />
+        <activity android:name=".snakeInformations.IndoChineseSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.JavanSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.EquatorialSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.RingNeckedSpittingCobraInfo" />
+        <activity android:name=".snakeInformations.PuffAdderInfo" />
+        <activity android:name=".snakeInformations.RhinocerosViperInfo" />
+        <activity android:name=".snakeInformations.KingBrownSnakeInfo" />
+        <activity android:name=".snakeInformations.RedBelliedBlackSnakeInfo" />
+        <activity android:name=".snakeInformations.DugiteInfo" />
+        <activity android:name=".snakeInformations.WesternBrownSnakeInfo" />
+        <activity android:name=".snakeInformations.TigerRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.VenezuelanRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.UracoanRattlesnakInfo" />
+        <activity android:name=".snakeInformations.ArubaRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.BandedRockRattlesnake" />
+        <activity android:name=".snakeInformations.RockRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.MojaveRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.MalayanPitViperInfo" />
+        <activity android:name=".snakeInformations.SharpNosedPitViper" />
+        <activity android:name=".snakeInformations.MexicanRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.RoughScaledBushViperInfo" />
+        <activity android:name=".snakeInformations.WesternDiamondbackRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.EasternDiamondbackRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.GrandCanyonRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.WesternRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.RedDiamondRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.BoomslangInfo" />
+        <activity android:name=".snakeInformations.TimberRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.PrairieRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.MassasaugaRattlesnakeInfo" />
+        <activity android:name=".snakeInformations.MexicanCantilInfo" />
+        <activity android:name=".snakeInformations.BroadBandedCopperheadInfo" />
+        <activity android:name=".snakeInformations.NorthernCopperheadInfo" />
+        <activity android:name=".snakeInformations.OsageCopperheadInfo" />
+        <activity android:name=".snakeInformations.TransPecosCopperhead" />
+        <activity android:name=".snakeInformations.FloridaCottonmouthInfo" />
+        <activity android:name=".snakeInformations.WesternCottonmouthInfo" />
+        <activity android:name=".snakeInformations.EasternCottonmouthInfo" />
+        <activity android:name=".snakeInformations.CentralAmericanJumpingPitViper" />
+        <activity android:name=".snakeInformations.YellowBlotchedPalmPitViper" />
+        <activity android:name=".snakeInformations.GuatemalanPalmPitViper" />
+        <activity android:name=".snakeInformations.GuifarrosPalmViper" />
+        <activity android:name=".snakeInformations.SideStripedPalmPitViper" />
+        <activity android:name=".snakeInformations.BlackSpeckledPalmPitViper" />
+        <activity android:name=".snakeInformations.MexicanPalmPitViperInfo" />
+        <activity android:name=".snakeInformations.EyelashViperInfo" />
+        <activity android:name=".snakeInformations.MerendonPalmPitViperInfo" />
+        <activity android:name=".snakeInformations.TwoStripedForestPitViperInfo" />
+        <activity android:name=".snakeInformations.SpeckledForestPitViper" />
+        <activity android:name=".snakeInformations.UrutuInfo" />
+        <activity android:name=".snakeInformations.PatagonianLanceheadInfo" />
+        <activity android:name=".snakeInformations.TerciopeloInfo" />
+        <activity android:name=".snakeInformations.CommonLanceheadInfo" />
+        <activity android:name=".snakeInformations.BrazilLancehead" />
+        <activity android:name=".snakeInformations.GoldenLanceheadInfo" />
+        <activity android:name=".snakeInformations.JararacussuInfo" />
+        <activity android:name=".snakeInformations.SidewinderInfo"/>
+
+
+        <activity android:name=".About"
+            android:parentActivityName=".MainActivity"/>
+
+        <activity android:name=".FirstAidForSnakebite"
+            android:parentActivityName=".MainActivity"/>
+
+        <!--<activity android:name=".SearchableActivity"
+            android:parentActivityName=".MainActivity"/>-->
+
+    </application>
+
+</manifest>

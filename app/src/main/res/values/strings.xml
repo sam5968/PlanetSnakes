@@ -1,0 +1,1924 @@
+<resources>
+    <string name="app_name">Planet Snakes</string>
+    <string name="action_search">Search</string>
+    <string name="threat_level">Threat to humans:</string>
+
+    <!-- /////// About and Rating Bar Explanation ////// -->
+
+    <string name="about">About</string>
+    <string name="about_app">This App was inspired by Austin Stevens Snake Adventures and all the contents, including Images and Texts are
+    taken from Wikipedia</string>
+    <string name="five_rating_bar">Extremely Dangerous Snake</string>
+    <string name="four_rating_bar">Highly Dangerous Snake</string>
+    <string name="three_rating_bar">Considerably Dangerous Snake</string>
+    <string name="two_rating_bar">Dangerous Snake</string>
+    <string name="enlarge_image">Click to Enlarge Image</string>
+    <string name="feedback">If you wish to give feedback, please send it to: </string>
+    <string name="email">theoutstanding09@gmail.com</string>
+
+    <!-- ////// DO's and Do Not in case of an snake bite /////// -->
+
+    <string name="first_aid">First aid for a Snake Bite</string>
+    <string name="snake_bite">Snake Bites: First Aid and Treatment</string>
+    <string name="snake_identification"><b>Snake Identification: </b>\n\nIdentifying the Snake is very important for planning treatment in Asia, Africa, and South America.
+    In other regions (Such as North America and Europe) where Polyvalent antivenoms are available, identification of Snake is not a high priority item.  \n\nKnowing what
+    species are present locally can be crucial for treatment. Majority of severe snake bites are caused by Vipers, Kraits, and Cobras.</string>
+    <string name="aid"><b>First Aid: </b>\n\nAmerican Medical Association and American Red Cross recommend washing the Snakebite with Soap and
+    Water. Traces of the Venom left on the Skin/Bandages can be used in combination with a snake bite identification kit to identify the species of a snake. It\'s very
+    Important to keep the victim calm and to restrict movement.</string>
+    <string name="pressure_immobilization"><b>Pressure Immobilization: </b>\n\nPresure Immobilization is recommended for snakebites that have
+    occurred in Australia (Neurotoxic Snakes). It\'s not recommended for snakebites from Non-neurotoxic Snakes that are found in North America.
+    The British Military recommends using Pressure Immobilization in all cases where the type of Snake is Unknown.</string>
+    <string name="anti_venom"><b>Antivenom: </b>\n\n<b>Polyvalent snake antivenom</b> is used to treat bites from South American Rattlesnake,
+    terciopelo, Saw-scaled Viper, Russells Viper, Common Krait, and Spectacled Cobra. \n\n<b>Taipan antivenom</b> can be used to treat bites from
+    Inland Taipan and Coastal Taipan. \n\n<b>INOSERP Pan-Africa (Sub-Sahara)</b> is used to treat bites from Black-necked Spitting Cobra, Black
+    Mamba, West African Carpet Viper, African Puff Adders, White-bellied Carpet Viper, Gaboon Viper, Western Green Mamba, Eastern Green Mamba,
+    Jameson\'s mamba, Egyptian Cobra, Red Spitting Cobra, and Forest Cobra. \n\n<b>Death Adder Antivenom</b> is used to treat bites form Death
+    Adder. \n\n<b>Black Snake Antivenom </b>is used to treat bites from Mulga Snake, Red-bellied Black Snake, Papuan Black Snake, Colletts
+    Snake, and Blue-bellied Black Snake. \n\n<b>Tiger Snake Antivenom </b>is used to treat bites from Australian Copperheads, Tiger Snakes,
+    Australian Black Snakes, and Rough-scaled Snake. \n\n<b>Brown Snake Antivenom </b>is used to treat bites from Dugite, Spotted Brown Snake,
+    Peninsula Brown Snake, Western Brown Snake, Ringer Brown Snake, and Eastern Brown Snake. \n\n<b>INOSERP MENA </b>is used to treat bites from
+    Puff Adders, Saharan Horned Viper, Sidewinder, Egyptian Cobra,  West-Asian Blunt-Nosed Viper, Palestine Viper, Red Spitting Cobra,
+    Black-Necked Spitting Cobra, Black Desert Cobras, Carpet Vipers, Desert Viper, Sahara Sand Viper, Arabian Horned Viper,
+    Macrovipera Lebetina Transmediterranea, Moorish Viper, Nubian Spitting Cobra, Field\'s Horned Viper, Persian Horned Viper, Bornmueller\'s viper,
+    Lataste\'s Viper, and Vipera Raddei. \n\n<b>Sea Snake Antivenom </b>is used to treat bites from Yellow-Bellied Sea Snake, Sea Kraits,
+    Olive Sea Snake, Turtlehead Sea Snakes, Beaked Sea Snakes, Bighead Sea Snake, Northern Mangrove Sea Snake, and Anomalous Sea Snake. \n\n<b>Vipera Tab </b>is used to treat bites from Vipers. \n\n<b>Polyvalent crotalid antivenin (CroFab—Crotalidae Polyvalent Immune Fab (Ovine)) </b>is
+    used to treat bites from North American Pit Vipers including Copperheads, Cottonmouths, and Rattlesnakes. \n\n<b>Soro antibotropicocrotalico </b>is
+    used to treat bites from Pit Vipers and Rattlesnakes. \n\n<b>SAIMR polyvalent antivenom </b>is used to treat bites from Mambas, Cobras,
+    Rinkhalses, and Puff Adders. \n\n<b>SAIMR echis antivenom </b>is used to treat bites from Saw-Scaled Vipers. \n\n<b>SAIMR Boomslang antivenom </b>is
+    used to treat bites from Boomslang. \n\n<b>Antielapidico, Anticoral, Panamerican serum, Anti-mipartitus antivenom,
+    Antimicrurus, Anticoral monovalent, Anti-micruricoscorales, and Coralmyn </b>are used to treat bites from Coral Snakes.</string>
+    
+    <!-- UN IUCN Red List of Endangered Species -->
+    <string name="least_concern_wildlife">Least Concern Wildlife:</string>
+    <string name="near_threatened">Near Threatened Wildlife":</string>
+    <string name="vulnerable">Vulnerable Wildlife:</string>
+    <string name="endangered">Endangered Wildlife:</string>
+    <string name="critically_endangered">Critically Endangered Wildlife:</string>
+    <string name="data_deficient">Data Deficient:</string>
+
+    <!-- ///// ex means explanation ///// -->
+
+    <string name="least_concern">The Snakes are widespread and have a healthy population.</string>
+    <string name="threatened">The Snakes are Likely to become endangered in the near future.</string>
+    <string name="vulnerable_ex">The Snakes are at High risk of endangerment in the wild.</string>
+    <string name="endangered_ex">The Snakes are at High risk of extinction in the wild.</string>
+    <string name="critically">The Snakes are at Extremely high risk of extinction in the wild</string>
+    <string name="data_deficient_ex">Data Deficient indicates that little or no information is available on the abundance and distribution of the Snakes.</string>
+
+    <!-- ////////////////////// Snake Names ///////////////////////// -->
+    <string name="inland_taipan">Inland Taipan</string>
+    <string name="eastern_brown_snake">Eastern Brown Snake</string>
+    <string name="yellow_bellied_snake">Yellow Bellied Snake</string>
+    <string name="many_banded_krait">Many-Branded Krait</string>
+    <string name="black_mamba">Black Mamba</string>
+    <string name="common_krait">Common Krait</string>
+    <string name="coastal_taipan">Coastal Taipan</string>
+    <string name="indian_cobra">Indian Cobra</string>
+    <string name="king_cobra">King Cobra</string>
+    <string name="russells_viper">Russell\'s Viper</string>
+    <string name="saw_scaled_viper">Saw Scaled Viper</string>
+    <string name="black_branded_sea_krait">Black Branded Sea Krait</string>
+    <string name="tiger_snake">Tiger Snake</string>
+    <string name="common_death_adder">Common Death Adder</string>
+    <string name="red_headed_krait">Red Headed Krait</string>
+    <string name="malayan_krait">Malayan Krait</string>
+    <string name="western_green_mamba">Western Green Mamba</string>
+    <string name="eastern_green_mamba">Eastern Green Mamba</string>
+    <string name="jamesons_mamba">Jameson\'s Mamba</string>
+    <string name="caspian_cobra">Caspian Cobra</string>
+    <string name="forest_cobra">Forest Cobra</string>
+    <string name="philippine_cobra">Philippine Cobra</string>
+    <string name="cape_cobra">Cape Cobra</string>
+    <string name="jararaca">Jararaca</string>
+    <string name="southamerican_bushmaster">South American BushMaster</string>
+    <string name="gaboon_viper">Gaboon Viper</string>
+    <string name="chinese_cobra">Chinese Cobra</string>
+    <string name="monocled_cobra">Monocled Cobra</string>
+    <string name="egyptian_cobra">Egyptian Cobra</string>
+    <string name="banded_water_cobra">Banded Water Cobra</string>
+    <string name="congo_water_cobra">Congo Water Cobra</string>
+    <string name="black_desert_cobra">Black Desert Cobra</string>
+    <string name="katian_spitting_cobra">Katian Spitting Cobra (Mali Cobra)</string>
+    <string name="mozambique_spitting_cobra">Mozambique Spitting Cobra</string>
+    <string name="zebra_spitting_cobra">Zebra Spitting Cobra</string>
+    <string name="black_necked_spitting_cobra">Black-Necked Spitting Cobra</string>
+    <string name="red_spitting_cobra">Red Spitting Cobra</string>
+    <string name="samar_cobra">Samar Cobra (Spitting Cobra)</string>
+    <string name="indo_chinese_cobra">Indo Chinese Spitting Cobra</string>
+    <string name="javan_spitting_cobra">Javan Spitting Cobra</string>
+    <string name="equatorial_spitting_cobra">Equatorial Spitting Cobra</string>
+    <string name="ring_necked_spitting_cobra">Ring-Necked Spitting Cobra</string>
+    <string name="puff_adder">Puff Adder</string>
+    <string name="rhinoceros_viper">Rhinoceros Viper</string>
+    <string name="king_brown_snake">King Brown Snake (Mulga Snake)</string>
+    <string name="red_bellied_black_snake">Red-Bellied Black Snake</string>
+    <string name="dugite">Dugite</string>
+    <string name="western_brown_snake">Western Brown Snake</string>
+    <string name="tiger_rattlesnake">Tiger Rattlesnake</string>
+    <string name="venezuelan_rattlesnake">Venezuelan Rattlesnake</string>
+    <string name="uracoan_rattlesnake">Uracoan Rattlesnake</string>
+    <string name="aruba_rattlesnake">Aruba Rattlesnake</string>
+    <string name="banded_rock_rattlesnake">Banded Rock Rattlesnake</string>
+    <string name="rock_rattlesnake">Rock Rattlesnake</string>
+    <string name="mojave_rattlesnake">Mojave Rattlesnake</string>
+    <string name="malayan_pit_viper">Malayan Pit Viper</string>
+    <string name="sharp_nosed_pit_viper">Sharp-Nosed Pit Viper</string>
+    <string name="mexican_rattlesnake">Mexican Rattlesnake</string>
+    <string name="rough_scaled_bush_viper">Rough-scaled Bush Viper</string>
+    <string name="western_diamondback_rattlesnake">Western Diamondback Rattlesnake</string>
+    <string name="eastern_diamondback_rattlesnake">Eastern Diamondback Rattlesnake</string>
+    <string name="grand_canyon_rattlesnake">Grand Canyon Rattlesnake</string>
+    <string name="western_rattlesnake">Western Rattlesnake</string>
+    <string name="red_diamond_rattlesnake">Red Diamond Rattlesnake</string>
+    <string name="boomslang">Boomslang</string>
+    <string name="timber_rattlesnake">Timber Rattlesnake</string>
+    <string name="prairie_rattlesnake">Prairie Rattlesnake</string>
+    <string name="massasauga_rattlesnake">Massasauga Rattlesnake</string>
+    <string name="mexican_cantil">Mexican Cantil</string>
+    <string name="broad_copperhead">Broad-banded Copperhead</string>
+    <string name="northern_copperhead">Northern Copperhead</string>
+    <string name="osage_copperhead">Osage Copperhead</string>
+    <string name="trans_pecos">Trans-Pecos Copperhead</string>
+    <string name="florida_cottonmouth">Florida Cottonmouth</string>
+    <string name="western_cottonmouth">Western Cottonmouth</string>
+    <string name="eastern_cottonmouth">Eastern Cottonmouth</string>
+    <string name="central_american_jumping_pit_viper">Jumping Pit Viper</string>
+    <string name="blotched_palm_viper">Yellow-Blotched Palm-Pitviper</string>
+    <string name="guatemalan_palm_viper">Guatemalan Palm-Pit Viper</string>
+    <string name="guifarros_palm_viper">Guifarros Palm Viper</string>
+    <string name="side_striped_palm_viper">Side-striped Palm-pit Viper</string>
+    <string name="black_speckled_palm_viper">Black-speckled Palm-pit Viper</string>
+    <string name="mexican_palm_viper">Mexican Palm-pit Viper</string>
+    <string name="eyelash_viper">Eyelash Viper</string>
+    <string name="merendon_palm_viper">Merendon Palm-pit Viper</string>
+    <string name="two_striped_forest_viper">Two-striped Forest-pit Viper</string>
+    <string name="speckled_forest_pit_viper">Speckled Forest Pit Viper</string>
+    <string name="urutu">Urutu</string>
+    <string name="patagonian_lancehead">Patagonian Lancehead</string>
+    <string name="terciopelo">Terciopelo</string>
+    <string name="common_lancehead">Common Lancehead</string>
+    <string name="brazils_lancehead">Brazil\'s Lancehead</string>
+    <string name="golden_lancehead">Golden Lancehead</string>
+    <string name="jararacussu">Jararacussu</string>
+    <string name="sidewinder">Sidewinder</string>
+
+    <!-- ///////////////////////////////////////////////////////////////////////////// -->
+    <!-- ///////////////////////////////////////////////////////////////////////////// -->
+    <!-- ///////////////////////////////////////////////////////////////////////////// -->
+
+    <!-- ///////////////////// Inland Taipan /////////////////////// -->
+
+    <!-- Inland Taipan's Distribution -->
+
+    <string name="inland_taipan_distribution"><b>Inland Taipan\'s are native to</b> the black soil plains of
+        Australia and found in Queensland, and South Australia </string>
+
+    <string name="inland_taipan_scientific_name"><b>Scientific Name: </b>Oxyuranus microlepidotus</string>
+
+    <string name="inland_taipan_conservation_status"><b>UN Conservation Status: </b>The Snake is protected by Australian Law, While UN has yet to add the snake to the IUCN Red List
+    </string>
+
+    <string name="inland_taipan_common_names">Common Names include Western Taipan, The Small-Scaled Snake, and The Fierce Snake.</string>
+
+    <string name="inland_taipan_description"><b>Description: </b>The inland taipan is dark tan, ranging from a rich, dark hue to a brownish light-green, depending on season.
+    Its back, sides and tail may be different shades of brown and grey, with many scales having a wide blackish edge. These dark-marked scales occur in diagonal rows so that
+    the marks align to form broken chevrons of variable length that are inclined backward and downward. The lowermost lateral scales often have an anterior yellow edge.
+    The dorsal scales are smooth and without keels. The round-snouted head and neck are usually noticeably darker than the body (glossy black in winter, dark brown in summer),
+    the darker colour allowing the snake to heat itself while only exposing a smaller portion of the body at the burrow entrance. The eye is of average size with a blackish
+    brown iris and without a noticeable coloured rim around the pupil. \n\nThe inland taipan averages approximately 1.8 metres (5.9 ft) in total length,
+    although larger specimens can reach total lengths of 2.5 metres (8.2 ft). \n\n<b>Seasonal Adaptation: </b>Inland taipans adapt to their environment by changing the
+    colour of the skin during seasonal changes. They tend to become lighter during summer and darker during the winter. This seasonal colour change serves the purpose
+    of thermoregulation, allowing the snake to absorb more light in the colder months.</string>
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+
+    <!-- ///////////////////// Eastern Brown Snake //////////////// -->
+
+    <!-- Eastern Brown Snake's Distribution -->
+
+    <string name="eastern_brown_snake_distribution"><b>Eastern Brown Snake\'s are native to </b>Australia, Papua New Guinea, Indonesia. The snake is
+    found in sclerophyll forests, Eucalyptus forests, heaths of coastal areas, savannah woodlands, inner grasslands, farmlands, arid scrublands. <b>Its not
+    found in </b> rainforest\'s, wet areas, very dry deserts with little or no cover  </string>
+
+    <string name="eastern_brown_snake_scientific_name"><b>Scientific Name: </b>Pseudonaja textilis</string>
+
+    <string name="eastern_brown_snake_conservation_status"><b>UN Conservation status: </b>Least Concern Wildlife</string>
+
+    <string name="eastern_brown_snake_common_names">Eastern Brown Snake\'s are often referred as Common Brown Snake </string>
+
+    <string name="eastern_brown_snake_description"><b>Description: </b>Adult eastern brown snakes are highly variable in colour. Whilst usually a uniform shade of brown,
+    they can have various patterns, including speckles and bands, and range from a very pale fawn colour through to black, including orange, silver, yellow, and grey.
+    Juveniles can be banded and have a black head, with a lighter band behind, a black nape, and numerous red-brown spots on the belly. \n\nThis species has an average total length
+    (including tail) of 1.1–1.8 m (3.6–5.9 ft). The maximum recorded size for the species is 2.4 m (7.9 ft), although any specimen greater than 2 m (6.6 ft) in total length would be
+    considered exceptionally large. \n\nThe Eastern Brown Snake is active during the day and it is notorious for its speed and aggression.</string>
+
+    <!-- ////////////////////////////////////////////////////////////////////////////////////////-->
+
+    <!-- //////////////// Yellow Bellied Sea Snake ///////////////// -->
+
+    <!-- Yellow Bellied sea snake distribution -->
+
+    <string name="yellow_bellied_seasnake_distribution"><b>Yellow Bellied Sea Snakes have </b> an extensive distribution covering the entire
+        tropical Indo-pacific oceans extending to the coastal areas of Costa Rica, Southern California, Peru, Hawaiian Islands, South Africa, Namibia, Tasmania, and
+    New Zealand</string>
+
+    <string name="yellow_bellied_scientific_name"><b>Scientific Name: </b>Hydrophis platura</string>
+
+    <string name="yellow_bellied_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="yellow_bellied_common_names">Common Names include YellowBelly Sea Snake, and Pelagic Sea Snake</string>
+
+    <string name="yellow_bellied_description"><b>Description: </b>The yellow-bellied sea snake, as the name implies, has a distinctive bicolor pattern with a yellow
+    underbelly and brown back, making it easily distinguishable from other sea snake species. Yellow-bellied sea snakes, like many other species of sea snake, are fully adapted to
+    living their whole lives at sea: mating, eating and giving birth to live young (ovoviviparous).</string>
+
+    <!-- ///////////////////// Many Banded Krait ////////////////// -->
+
+    <string name="many_banded_krait_distribution"><b>The snake are found in </b>China, Taiwan, Hong Kong, Myanmar, Laos, Vietnam, and
+    Thailand. They can be found in humid lowland areas, subtropical regions, and marshy conditions. They are also frequently found in
+    woodlands, shrublands, agricultural fields, and Mangroves, often adjacent to water bodies, such as Rivers, Streams, Rice Paddies, and
+    ditches.</string>
+
+    <string name="many_banded_scientific_name"><b>Scientific Name: </b>Bungarus multicinctus</string>
+
+    <string name="many_banded_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="many_banded_krait_common_name">Common Names include Taiwanese krait, and the Chinese krait</string>
+
+    <string name="many_banded_description"><b>Description: </b>The many-banded krait is a medium to large sized species of snake,
+    averaging 1 to 1.5 m (3.3 to 4.9 ft) in length, with maximum lengths reaching 1.85 m (6.1 ft). Its body is slender and moderately compressed.
+    The scales of this species are smooth and glossy, with a noticeably distinct vertebral ridge. The colour of the snake is black to dark
+    bluish-black with approximately 21–30 white or creamy white cross bands along the entire length of its upper body. \n\nThe tail is short
+    and pointed, that is also black in colour with alternating white cross bands, of which there are 7–11. The belly of the snake is usually white in colour,
+    but could be an off white or creamy white. The head is primarily black in colour, is broad and oval in shape, but flat and slightly distinct from the body.
+     The eyes are small and black in colour. The pupils are black in colour, thus making them hardly noticeable as they blend in with the rest of the eyes.
+    This species has large nostrils. The fangs are small, fixed and are located in the anterior of the upper jaw. Juveniles of this species usually have whitish
+    blotches on the lower side of their heads.</string>
+
+    <!-- ///////////////////// Black Mamba ///////////////////////// -->
+
+    <!-- Black Mamba's Distribution -->
+
+    <string name="black_mamba_distribution"><b>Black Mamba primarily lives in:</b> South Africa,
+    Sudan, Ethiopia, Eritrea, Kenya, Eastern Uganda, Tanzania, Burundi, Rwanda, Mozambique,
+    Swaziland, Malawi, Zambia, Zimbabwe, Botswana, Democratic Republic of Congo, Namibia,
+    Angola, Central African Republic, Chad, Nigeria, Mali. It is not found at altitudes above 1,000 meters (3,300 feet). They like to live in
+    neglected open spaces, hollow trees, rock crevices, semi-arid dry savannah, woodland, dense forest, arid desert, termite mounds or burrows</string>
+
+    <!-- First Aid for Black Mamba's bite -->
+
+    <string name="first_aid_for_black_mamba_bite"> <b>First Aid:\n</b>
+        Keep the bite victim calm and reassured. Allow him or her to lie flat and avoid as much as
+        movement possible. \nIf possible, allow the bitten limb to rest at a lower than the victim\'s
+        heart. Immediately wrap a large crepe bandage snugly around the bitten limb starting at the site of the bite and working proximally up the limb \(the full length if possible\). The bandage should be as tight as one might bind a sprained ankle.
+        Secure the splint to the bandaged limb to keep the limb as rigid and unmoving as possible. \n\nAvoid bending or moving the limb excessively while applying the splint.
+        DO NOT remove the splint or bandages until the victim has reached the hospital and is receiving Antivenom.
+        Have the South African Institute for Medical Research (S.A.I.M.R.) Polyvalent Antivenom ready for the emergency crew to take with the victim to the hospital.
+        <b>Give them the following:</b>\n
+
+                 \n\t1. The available anti venom (at least 10 - 20 vitals)
+                 \n\t2. The accompanying instruction (protocol) packet
+                 \n\t3. If available, the victim\'s medical packet
+
+        Do not cut or incise the bite
+        Do not apply ice to the bite.
+    </string>
+
+    <string name="black_mamba_scientific_name"><b>Scientific Name: </b>Dendroaspis polylepis</string>
+
+    <string name="black_mamba_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="black_mamba_description"><b>Description: </b>Black Mamba is a large, round-bodied, slender, but powerful snake. It tapers smoothly towards
+    the tail. The head is often said to be "coffin-shaped" with a somewhat pronounced brow ridge and a medium-sized eye with fangs up to 6.5 millimeters (0.26 in) in length located at the front of the maxilla
+    The adult snake\'s length ranges from 2 meters (6.6 ft) to 3 meters (9.8 ft) routinely but, according to some sources, specimens have grown to lengths of 4.3 to 4.5 meters (14.1 to 14.8 ft).
+    \n\nSpecimens vary considerably in color; some are olive-brown to khaki, many are grey, but none are black. Some individuals display dark mottling towards the posterior, which may appear in the form of oblique bars.
+    The underbody is often pale yellow or cream colored and the eyes are dark brown to black with a silver or pale yellow corona surrounding the pupil.
+    </string>
+
+    <!-- /////////////////////////////////////////////////////////////////////////////////////// -->
+
+    <!-- //////////////////// Common Krait ///////////////////// -->
+
+    <!-- Common Krait Distribution -->
+
+    <string name="common_krait_distribution"><b>Common krait lives in:</b> India, Sri Lanka, Nepal, Pakistan, Bangladesh and Afghanistan. It\'s found
+    in fields, houses, termite mounds, brick piles and in water or proximity to water source </string>
+
+    <!-- First aid for Common Krait bite -->
+
+    <string name="common_krait_scientific_name"><b>Scientific Name: </b>Bungarus caeruleu</string>
+
+    <string name="common_krait_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="common_krait_common_names">Common Names include Indian Krait, Blue Krait, kattu viriyan</string>
+
+    <string name="common_krait_description"><b>Description: </b>The average length is 0.9 m (3.0 ft), but they can grow to 1.75 m (5 ft 9 in).
+    Males are longer, with proportionately longer tails. The head is flat and the neck hardly evident. he body is cylindrical, tapering towards the tail.
+    The tail is short and rounded. The eyes are rather small, with rounded pupils, indistinguishable in life. \n\nThe head shields are normal, with no loreals;
+    four shields occur along the margin of the lower lip; the third and fourth supraoculars touch the eye. The scales are highly polished, in 15-17 rows;
+    the vertebral row is distinctly enlarged and hexagonal. Ventrals number 185-225 and caudals 37-50, entire. \n\nColouration is generally black or bluish black,
+    with about 40 thin, white crossbars which may be indistinct or absent anteriorly. The pattern, however, is complete and well defined in the young, which are marked
+    with conspicuous crossbars even anteriorly; in old individuals, the narrow white lines may be found as a series of connected spots, with a prominent spot
+    on the vertebral region. A white preocular spot may be present; the upper lips and the belly are white.</string>
+
+    <!-- ////////////////////////////////////////////////////////////////////////////////////////-->
+
+    <!-- ///////////////////// Coastal Taipan ///////////////// -->
+
+    <string name="coastal_taipan_distribution"><b>Coastal Taipan are native to</b> Australia, Papua New Guinea and two Indonesian provinces. Despite
+    it\'s name, it can be found hundreds of kilometers from beach. They are usually found in woodland areas, sugarcane fields, rubbish bins,
+    grazing paddocks, hollow logs and animal burrows</string>
+
+    <string name="coastal_taipan_scientific_name"><b>Scientific Name: </b>Oxyuranus scutellatus</string>
+
+    <string name="coastal_taipan_conservation_status"><b>Conservation Status: </b>The Snake is protected by Australian Law, While UN has yet to
+        add the snake to the IUCN Red List</string>
+
+    <string name="coastal_taipan_common_name">Coastal Taipan is also known as Common Taipan</string>
+
+    <string name="coastal_taipan_description"><b>Description: </b>Coastal taipans are large snakes and it is the longest venomous snake in Australia.
+    Adult specimens of this species typically attains sexual maturity around 1.2 m (3.9 ft) in total length (body + tail). More mature specimens
+    can grow to between 1.5 and 2.0 m (4.9 and 6.6 ft). \n\nThe head of this species is long and narrow like that of the African black mamba.
+    It has an angular brow and is lighter coloured on the face. The body is slender and colouration can vary. They are often uniformly light olive or
+    reddish-brown in colour, but some specimens may be dark gray to black. The colouration is lighter on the sides of the body, and the ventral side (the belly) is
+    usually a creamy-white to a pale light yellow in colour, and is often marked with orange or pink flecks. \n\nIndividuals undergo a seasonal change in colour,
+    becoming darker in winter and fading in summer. The eyes are large, round,and are light brown or even hazel in colour with large pupils.</string>
+
+    <!-- ////////////////////////////////////////////////////////////////////////////////////////-->
+
+
+    <!-- /////////////////// Indian Cobra //////////////////// -->
+    <string name="indian_cobra_distribution"><b>Indian Cobra is native to</b> India, Sri Lanka, Nepal, Pakistan, Bangladesh. It can be found in open or
+    dense forests, plains, agricultural lands, rocky terrains, wetlands, and in urban areas. It is not found at altitude above
+    2,000 meters (6,600 feet)</string>
+
+    <string name="indian_cobra_scientific_name"><b>Scientific Name: </b>Naja naja</string>
+
+    <string name="indian_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="indian_cobra_common_name">Common Name\'s include Spectacled cobra, Asian Cobra, and Binocellate cobra</string>
+
+    <string name="indian_cobra_description"><b>Description: </b>The Indian cobra varies tremendously in colour and pattern throughout its range.
+    The ventral scales or the underside colouration of this species can be grey, yellow, tan, brown, reddish or black.  Dorsal scales of the Indian cobra
+    may have a hood mark or colour patterns. The most common visible pattern is a posteriorly convex light band at the level of the 20th to 25th ventrals.
+    \n\nThe Indian cobra is a moderately sized, heavy bodied species. This cobra species can easily be identified by its relatively large and
+    quite impressive hood, which it expands when threatened. This species has a head which is elliptical, depressed, and very slightly distinct from neck.
+    The snout is short and rounded with large nostrils. The eyes are medium in size and the pupils are round. The majority of adult specimens range
+    from 1 to 1.5 metres (3.3 to 4.9 ft) in length.</string>
+
+    <!-- /////////////////// King Cobra ////////////////////// -->
+    <string name="king_cobra_distribution"><b>King Cobra\'s are predominantly found in</b> Indian Subcontinent and South East Asia, in Bhutan, Nepal,
+    India, Myanmar (Burma), Cambodia, China, Laos, Malaysia, Bangladesh, Indonesia, Singapore, Thailand, Vietnam and The Philippines. It\'s usually found in
+    dense highland forest along streams and lakes</string>
+
+    <string name="king_cobra_scientific_name"><b>Scientific Name: </b>Ophiophagus hannah</string>
+
+    <string name="king_cobra_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+    
+    <string name="king_cobra_common_name">King Cobra is also known as Hamadryad</string>
+
+    <string name="king_cobra_description"><b>Description: </b>The king cobra averages at 3 to 4 m (9.8 to 13.1 ft) in length and typically weighs about 6 kg (13 lb).
+    The skin of this snake is either olive-green, tan, or black, and it has faint, pale yellow cross bands down the length of the body.
+    The belly is cream or pale yellow, and the scales are smooth. Juveniles are shiny black with narrow yellow bands. \n\nThe head of a mature snake
+    can be quite massive and bulky in appearance, though like all snakes, it can expand its jaws to swallow large prey items. It has proteroglyph dentition,
+    meaning it has two short, fixed fangs in the front of the mouth, which channel venom into the prey like hypodermic needles.</string>
+
+    <!-- /////////////////// Russell's Viper ///////////////// -->
+    <string name="russells_viper_distribution">Russell\'s Vipers are found in India, Sri Lanka, Nepal, Myanmar(Burma), Bangladesh, Cambodia, Tibet,
+    Taiwan, China, Indonesia, Thailand and Pakistan. It\'s found in open, grassy or bushy areas, on forested plantation, farmland and avoids dense
+    forests. The snake has been reportedly seen in altitude of up to 2300 - 3000 meters (7,500 - 9,800 feet) </string>
+
+    <string name="russell_viper_scientific_name"><b>Scientific Name: </b>Daboia russelii</string>
+
+    <string name="russell_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="russell_viper_common_name">Common Name\'s include Chain Viper, Indian Russell\'s Viper, Common Russell\'s Viper,
+    Seven Pacer, Chain Snake, and Scissors Snake.</string>
+
+    <string name="russell_viper_description"><b>Description: </b>The Snake can grow to a maximum total length (body + tail) of 166 cm (5.5 ft) and averages about 120 cm (4 ft).
+    It is more slenderly built than most other vipers. The head is flattened, triangular, and distinct from the neck. The snout is blunt, rounded, and raised.
+    The nostrils are large, each in the middle of a large, single nasal scale. The lower edge of the nasal touches the nasorostral. \n\n
+    The supranasal has a strong crescent shape and separates the nasal from the nasorostral anteriorly. The rostral is as broad as it is high.
+    The crown of the head is covered with irregular, strongly fragmented scales. The supraocular scales are narrow, single, and separated by six to nine scales across the head.
+    The eyes are large, flecked with yellow or gold, and surrounded by 10–15 circumorbital scales. The snake has 10–12 supralabials,
+    the fourth and fifth of which are significantly larger. The eye is separated from the supralabials by three or four rows of suboculars.
+    \n\nOf the two pairs of chin shields, the front pair is notably enlarged. The two maxillary bones support at least two and at the most five or six
+    pairs of fangs at a time: the first are active and the rest replacements. The fangs attain a length of 16.5 mm (0.65 in) in the average specimen.
+    \n\nThe body is stout, the cross-section of which is rounded to circular. The dorsal scales are strongly keeled; only the lowest row is smooth.
+    Mid-body, the dorsal scales number 27–33. The ventral scales number 153–180. \n\nDorsally, the color pattern consists of a deep yellow, tan,
+    or brown ground color, with three series of dark brown spots that run the length of the body. Each of these spots has a black ring around it,
+    the outer border of which is intensified with a rim of white or yellow. The dorsal spots, which usually number 23–30, may grow together,
+    while the side spots may break apart. The head has a pair of distinct dark patches, one on each temple, together with a pinkish, salmon,
+    or brownish V or X marking that forms an apex towards the snout. Behind the eye is a dark streak, outlined in white, pink, or buff.
+    The venter is white, whitish, yellowish, or pinkish, often with an irregular scattering of dark spots.</string>
+
+    <!-- /////////////////// Saw Scaled Viper's /////////////// -->
+    <string name="saw_scaled_viper_distribution">Saw-scaled vipers are found in Oman, India, Sri Lanka, United Arab Emirates, Pakistan, Iraq, Iran,
+    Bangladesh, Uzbekistan, Afghanistan, Turkmenistan, and Tajikistan. Its found in Sand, Rock, Soft Soil, and in Scrublands</string>
+
+    <string name="saw_scaled_scientific_name"><b>Scientific Name: </b>Echis carinatus</string>
+
+    <string name="saw_scaled_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="saw_scaled_common_name">Common Name\'s include Indian Saw-Scaled Viper, Little Indian Viper, </string>
+
+    <string name="saw_scaled_description"><b>Description: </b>Saw-scaled vipers are relatively small snakes, with size ranging
+    from 90 cm (35 in) in total length (body + tail), to being around 30 cm (12 in) in total length. \n\nThe head is relatively small
+    and is short, wide, pear-shaped and distinct from the neck. The snout is short and rounded, while the eyes are relatively
+    large and the body is moderately slender and cylindrical. The dorsal scales are mostly keeled. However, the scales on the lower
+    flanks stick out at a distinct 45° angle and have a central ridge, or keel, that is serrated (hence the common name). The tail is short
+    and the subcaudals are single. \n\nSaw scaled viper of the genus Echis may be responsible for biblical claims
+    of a fiery flying serpent.</string>
+
+    <!-- /////////////////// Black-Banded Sea Krait ////////// -->
+
+    <string name="black_banded_sea_krait_distribution"><b>Black-Banded Sea Krait are found in </b>the warm waters of the Pacific Ocean.
+    The snake is frequently found in Coral Reefs.</string>
+
+    <string name="black_banded_krait_scientific_name"><b>Scientific Name: </b>Laticauda semifasciata</string>
+
+    <string name="black_banded_krait_conservation_status"><b>UN Conservation Status: </b>Near Threatened</string>
+
+    <string name="black_banded_krait_common_name">Common Name\'s include Chinese Sea Snake, Erabu Umi Hebi (in Japanese)</string>
+
+    <string name="black_banded_krait_description"><b>Description: </b>It has a short head, thick trunk, and no easily discernible neck.
+    The tail is simply extended skin, spread wide like a fin, and unsupported by any projection. The stomach is comparatively wide.
+    \n\nMassing together near the shore, they breed between narrow cracks in the reef and in caves. It is a nocturnal snake, rarely seen during the day.
+    It breathes air, so breaks the surface at least once every six hours.</string>
+
+    <!-- /////////////////// Tiger Snake ////////////////////// -->
+
+    <string name="tiger_snake_distribution"><b>Tiger snake are native to Australia </b>and can be found in Southern Australia and Tasmania</string>
+
+    <string name="tiger_snake_scientific_name"><b>Scientific Name: </b>Notechis scutatus</string>
+
+    <string name="tiger_snake_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="tiger_snake_common_name">Common Name\'s include Common Tiger Snake, Western Tiger Snake, Chappell Island tiger snake,
+    King Island Tiger Snake, Tasmanian Tiger Snake, Peninsula Tiger Snake.</string>
+
+    <string name="tiger_snake_description"><b>Description: </b>Tiger snakes are a large group of distinct populations,
+    which may be isolated or overlapping, with extreme variance in size and colour. Individuals also show seasonal variation in colour.
+    The total length typically about 1.2 metres. \n\nThe patterning is darker bands, strongly contrasting or indistinct, which are pale to very dark in colour.
+    Colouration is composed of olive, yellow, orange-brown, or jet-black, and the underside of the snake is light yellow or orange.
+    \n\nTolerant of low temperatures, the snake may be active on warmer nights. When threatened, they flatten their bodies and raise
+    their heads above the ground in a classic prestrike stance.</string>
+
+    <!-- /////////////////// Common Death Adder /////////////// -->
+
+    <string name="common_death_adder_distribution"><b>Common Death Adder are native to </b>Australia and Papua New Guinea. They can be found in
+    Eastern and Coastal Southern Australia. The Snake can be found in Woodlands, Grasslands, Forests, and Heaths of the Eastern Coast of
+    Australia. Death Adder is master of disguise, it can hide beneath loose leaf litter and debris in Woodlands and Shrublands due to its
+    band stripes</string>
+
+    <string name="common_death_adder_scientific_name"><b>Scientific Name: </b>Acanthophis antarcticus</string>
+
+    <string name="common_death_adder_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="common_death_adder_description"><b>Description: </b>The common death adder has a broad flattened, triangular head and
+    a thick body with bands of red, brown and black with a grey, cream or pink belly. It can reach a maximum body length of 70–100 centimetres (2.3–3.3 ft).
+    \n\nDeath adders possess the longest fangs of any Australian snake.</string>
+
+    <!-- /////////////////// Red Headed Krait ///////////////// -->
+    <string name="red_headed_krait_distribution">Red-Headed Krait is native to SouthEast Asia. It\'s found in Cambodia, Myanmar, Indonesia, Thailand
+    Malaysia, Vietnam. They inhabits rainforest\'s in mountainous and hilly regions. The snake is active on night and considered very dangerous</string>
+
+    <string name="red_headed_scientific_name"><b>Scientific Name: </b>Bungarus flaviceps</string>
+
+    <string name="red_headed_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="red_headed_description"><b>Description: </b>The species presents a very striking and distinctive coloration – namely a bright
+    red head and tail with a black body that includes a low-lateral narrow bluish white stripe. Having large, smooth scales, the general appearance of
+    the red-headed krait is glossy and attractive. Captives will generally refuse to strike until they have been subjected to prolonged teasing.
+    \n\nThe average length of a red-headed krait is 4 to 5 feet (1.2 to 1.5 m), with a maximum of 7 feet (2.1 m). They have short,
+    hollow fangs on their maxillary bones, with inlets at the bases and outlets near their tips. The venom is ducted to the inlet and
+    forced through the hole at the tip of the fang.</string>
+
+    <!-- /////////////////// Malayan Krait //////////////////// -->
+    <string name="malayan_krait_distribution">Malayan Krait\'s are native to Myanmar, Thailand, Indonesia, Cambodia, Malaysia, Vietnam, Laos.</string>
+
+    <string name="malayan_krait_scientific_name"><b>Scientific Name: </b>Bungarus Candidus</string>
+
+    <string name="malayan_krait_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="malayan_krait_common_name">Malayan Krait is also know as Blue Krait</string>
+
+    <string name="malayan_krait_description"><b>Description: </b>The Malayan krait may attain a total length of 108 cm (about 3.5 ft),
+    with a tail 16 cm (6.3 in) long. Dorsally, it has a pattern of 27-34 dark-brown, black, or bluish-black crossbands on the body and tail,
+    which are narrowed and rounded on the sides. \n\nThe first crossband is continuous with the dark color of the head.
+    The dark crossbands are separated by broad, yellowish-white interspaces, which may be spotted with black. Ventrally, it is uniformly white.
+    \n\nAn unbanded black phenotype also occurs in some populations (e.g Bali) and reportedly in West and Central Java.</string>
+
+    <!-- /////////////////// Western Green Mamba /////////////// -->
+    <string name="western_green_mamba_distribution">Western Green Mamba are predominantly found in Western Africa in Gambia, Senegal, Benin,
+    Sierra Leone, Liberia, Ivory Coast, Guinea\-Bissau, Guinea, Ghana amd Togo. The snake\'s are mainly found in tropical rainforest\'s</string>
+
+    <string name="western_green_mamba_scientific_name"><b>Scientific Name: </b>Dendroaspis viridis</string>
+
+    <string name="western_green_mamba_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="western_green_mamba_common_name">Common Names\'s include West African Green Mamba and Hallowell\'s Green Mamba.</string>
+
+    <string name="western_green_mamba_description"><b>Description: </b>The western green mamba is a long and very slender bodied snake
+    with a long tapering tail. The average length of an adult snake of this species is between 1.4 metres (4.6 ft) and 2.1 metres (6.9 ft).
+    \n\nSome specimens of this species can grow to maximum lengths of 2.4 metres (7.9 ft).[14] The head is narrow and elongate,
+    with a distinct canthus and slightly distinct from the neck. On rare occasions the neck may be flattened when the snake is aroused,
+    but there is no hood. Eyes are medium in size with round pupils and a yellow brown iris. \n\nDorsal surface body colour is
+    vivid yellowish green to green with anterior margins of the scales yellow. In many specimens the posterior body and tail are yellow.
+    In some specimens, dorsal body scales are distinctly bordered with black forming chevron shaped markings. The black interstitial
+    skin is clearly visible especially highlighting individual head scales and scales on the tail. \n\nHead dorsum is similar to
+    dorsal surface anterior body colour or slightly darker green. Laterally, the head scales, particularly the labials, are distinctly
+    black edged and colouration is usually paler than dorsum or slightly yellowish tinted. When viewed from above the black edging of
+    scales and black interstitial skin result in a plaited appearance. Head venter, throat, ventral and subcaudal surface colour
+    is pale yellowish to yellowish green</string>
+
+    <!-- /////////////////// Eastern Green Mamba /////////////// -->
+    <string name="eastern_green_mamba_distribution">Eastern Green Mamba are indigenous to coastal regions of east africa and southern africa.
+    The snake is found in Zimbabwe, Kenya, Malawi, Tanzania, Mozambique, Zambia, South Africa, and Zanzibar. It\'s usually found in trees and
+    rarely descends to the ground</string>
+
+    <string name="eastern_green_mamba_scientific_name"><b>Scientific Name: </b>Dendroaspis angusticeps</string>
+
+    <string name="eastern_green_mamba_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="eastern_green_mamba_common_name">Common Name\'s include East African Green Mamba, Common Mamba, Green Mamba, White-mouthed
+    Mamba</string>
+
+    <string name="eastern_green_mamba_description"><b>Description: </b>The eastern green mamba is a large, with a slightly compressed,
+    and very slender bodied snake with a medium to moderately long tapering tail. Adult males average around 1.8 metres (5.9 ft)
+    in total length, while females average 2.0 metres (6.6 ft) in total length. \n\nThe head is narrow, elongate, and coffin-shaped
+    with a distinct canthus and slightly distinct from the neck. When threatened or otherwise aroused in someway, this species is
+    capable of flattening its neck area, though no real hood formed. \n\nThe eastern green mamba has relatively long front fangs
+    located at proscenium end of the maxillary bone at the very front of the maxilla, which can rotate at its axis with the
+    prefrontal bone, giving this species more control of the movements of their fangs, unlike other elapids. \n\nColoration in this
+    species is bright green dorsally and yellow-green ventrally, with a few bright yellow scales scattered on the flanks in some specimens.
+    Juveniles are blue-green, and develop the brighter green adult coloration anteriorly to posteriorly in successive sheddings of the skin.
+    \n\n Most individuals over 60 centimetres (24 in) in total length have the full adult coloration,
+    but even some adults may return to a darker bluish green just before shedding. The border of the pupil may have a narrow bright
+    ochre to golden yellow edge, and the posterior border of the iris may become bright green. The inside of the mouth may be white
+    or bluish white. The males of this species usually have fewer ventral scales than the females.</string>
+
+    <!-- /////////////////// Jameson's Mamba /////////////////// -->
+    <string name="jamesons_mamba_distribution">Jameson\'s Mamba are found in Angola, Togo, Nigeria, Congo, Central African Republic, South Sudan,
+    Ghana, Cameroon, Gabon, Equatorial Guinea, Kenya, Uganda, Rwanda, Burundi, and Tanzania. The snake is usually found in primary and secondary
+    rainforest\'s, woodland, forest-savanna, and in mountain ranges up to 2,200 (7,200 ft)</string>
+
+    <string name="jamesons_mamba_scientific_name"><b>Scientific Name: </b>Dendroaspis jamesoni</string>
+
+    <string name="jamesons_mamba_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="jamesons_mamba_description"><b>Description: </b>Jameson\'s mamba is a large, slender elapid snake with smooth scales
+    and a long tapering tail which typically accounts for 20 to 25% of its total length. The average length of an adult snake is approximately
+    1.5 meters (4.9 ft) to 2.2 meters (7.2 ft). They grow as large as 2.64 meters (8 ft 8 in). \n\nAdults tend to be dull green across the back,
+    blending to pale green towards the underbelly with scales generally edged with black. The ventral side, neck and throat are typically
+    cream or yellowish in colour. \n\nJameson\'s mambas have a narrow and elongated head containing a small eye and round pupil.
+    The subspecies D. jamesoni kaimosae, which is typically found in the eastern part of the species range, feature a black tail
+    while central and western examples typically have a pale green or yellow tail.</string>
+
+    <!-- /////////////////// Caspian Cobra ///////////////////// -->
+    <string name="caspian_cobra_distribution"><b>Caspian Cobra\'s are native to Central and South Asia.</b> The snake is found in Uzbekistan, Turkmenistan,
+    Kyrgyzstan, Tajikistan, Iran, Afghanistan, Pakistan and Northern India. The Snake is often found in arid and semiarid, rocky or stony,
+    shrub or scrub covered foothills at elevation of up to 3,000m (9,800ft).</string>
+
+    <string name="caspian_cobra_scientific_name"><b>Scientific Name: </b> Naja oxiana</string>
+
+    <string name="caspian_cobra_conservation_status"><b>UN Conservation Status: </b>Near Threatened Wildlife.</string>
+
+    <string name="caspian_cobra_common_name">Common Name\'s include Central Asian Cobra, Oxus Cobra, and Russian Cobra.</string>
+
+    <string name="caspian_cobra_description"><b>Description: </b>The Caspian Cobra is medium to large in length, a heavy-bodied snake with
+    long cervical ribs capable of expansion to form a hood. The body is compressed dorsoventrally and subcylindrical posteriorly. This species
+    averages about 1 m (3.3 ft) in length and rarely reaches lengths over 1.5 m (4.9 ft). \n\nThe head is elliptical, depressed, and slightly distinct
+    from the neck, with a short, rounded snout and large nostrils. The eyes are medium in size with round pupils. Dorsal scales are smooth and strongly
+    oblique, with the outer two or three scale rows larger than the remainder.[3] Juveniles tend to be pale, with a faded appearance.
+    \n\nThey have noticeable dark and light cross-bands of approximately equal width around the body. Adults of this species are completely
+    light to chocolate brown or yellowish, some retain traces of juvenile banding, especially the first few dark ventral bands. This species
+    has no hood mark and no lateral throat spots.</string>
+
+    <!-- /////////////////// Forest Cobra ////////////////////// -->
+    <string name="forest_cobra_distribution"><b>Forest cobra\'s are native to Western and Central Africa.</b> They are found in Mali, Sierra Leone, Benin
+    Senegal, Guinea, Guinea-Bissau, Togo, Burkina Faso, Ghana, Liberia, Ivory Coast, Nigeria, Equatorial Guinea, Cameroon, Gabon, Republic of Congo,
+    Democratic republic of congo, Central African Republic, Angola, Kenya, Uganda, Rwanda, Burundi and South Africa. \n\nThe Forest Cobra\'s usually
+    live in high forest but it\'s highly adapted to many environment and habitats across Africa. The snake can be found in Grasslands, Savanna,
+    Broken Rock Country, Tropical and Sub-tropical rainforest\'s, and in Fruit Plantations</string>
+
+    <string name="forest_cobra_scientific_name"><b>Scientific Name: </b>Naja melanoleuca</string>
+
+    <string name="forest_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="forest_cobra_common_name">Common Name\'s include Black Cobra, and the Black and White-lipped Cobra.</string>
+
+    <string name="forest_cobra_description"><b>Description: </b>The forest cobra is Africa\'s largest cobra of the genus Naja and possibly the
+    largest of all the true cobra (Naja) species in the world.  The length of an average adult is 1.4 to 2.2 m (4.6 to 7.2 ft), but they may
+    attain lengths of 2.7 metres (8.9 feet),[6] [16] and lengths up to 3.1 metres (10 feet) are also possible in rare cases. \n\n
+    The head of this snake is large, broad, flattened and is slightly distinct from the neck. It is a slightly depressed, tapered and moderately
+    thick bodied snake with a slender tail that is medium in length. The forest cobra has long cervical ribs capable of expansion to form a long,
+    wedge shaped hood when threatened. \n\nThe colour of this species is variable, with three main colour morphs. Those from the forest or
+    forest fringe, from Sierra Leone east to western Kenya and south to Angola are glossy black, the chin, throat and anterior region of the
+    belly are cream or white, with broad black cross-bars and blotches. The sides of the head are strikingly marked with black and white,
+    giving the impression of vertical black and white bars on the lips. \n\nThe second colour morph, from the west African savanna,
+    is banded black and yellow, with a black tail, the head is brownish-yellow on top, the lips, chin and throat are yellow. \n\n
+    The third colour morph, from the coastal plain of east Africa, south to KwaZulu-Natal, inland to Zambia and southern Democratic
+    Republic of Congo, is brownish or blackish-brown above, paler below, the belly is yellow or cream, heavily speckled with brown or black,
+    and specimens from the southern part of its range have black tails. Melanistic (all black) specimens have been documented from west Africa.</string>
+
+    <!-- /////////////////// Philippine Cobra ////////////////// -->
+    <string name="philippine_cobra_distribution">Philippine cobra\'s are native to Philippines. The Snake can be found in Forested Regions,
+    Low-Lying Plains, Grasslands, Dense Jungle, Human Settlements, Agricultural Fields, Open Fields and Near Water Sources, as the snake is
+    fond of Water.</string>
+
+    <string name="philippine_cobra_scientific_name"><b>Scientific Name: </b>Naja philippinensis</string>
+
+    <string name="philippine_cobra_conservation_status"><b>UN Conservation Status: </b>Near Threatened</string>
+
+    <string name="philippine_cobra_common_name">Common Name\'s include Northern Philippine Cobra, Ulupong (in Tagalog Language), Carasaen (in Ilocano Language),
+    Agawason (in Cebuano-Bisaya Language)</string>
+
+    <string name="philippine_cobra_description"><b>Description: </b>The Philippine cobra is a stocky snake of medium length with long cervical ribs
+    capable of expanding, so when threatened, a hood can be formed. The average length of this species is 1.0 metre (3.3 ft). \n\n
+    The head is elliptical, depressed, slightly distinct from neck with a short, rounded snout and large nostrils. The eyes are moderate in size with
+    dark brown and round pupils, typical of other cobra species and similar to other elapids in general. \n\nIt has a fairly stocky build for an
+    elapid, and adult snakes are uniformly light to medium brown, while the juveniles tend to be a darker brown in color.</string>
+
+    <!-- /////////////////// Cape Cobra //////////////////////// -->
+    <string name="cape_cobra_distribution">Cape Cobra\'s are found in South Africa, Namibia, Lesotho, and Botswana. The Snake is often found
+    in Fynbos, Bushveld, Karoo Scrubland, Arid Savanna, Forest Regions, High Grasslands, Namib Desert, and the Kalahari Desert.</string>
+
+    <string name="cape_cobra_scientific_name"><b>Scientific Name: </b>Naja nivea</string>
+
+    <string name="cape_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="cape_cobra_common_name">Common Name\'s include Yellow Cobra, Geelslang, Bruinkapel, Koperkapel.</string>
+
+    <string name="cape_cobra_description"><b>Description: </b>The Cape cobra is a medium-sized species of cobra. Mature specimens are
+    typically about 1.2 to 1.4 metres (3.9 to 4.6 ft) long, but may grow up to 1.6 metres (5.2 ft) in length. Males are slightly larger than females.
+    \n\nCape cobras vary widely in colouration, from yellow through golden brown to dark brown and even black. In addition, individuals show
+    a varying degree of black or pale stippling and blotches, and although colour and marking are geographically related, it is also possible
+    to observe virtually all colour varieties at one location. \n\nFor example, the Kalahari Desert specimens in Botswana and Namibia are
+    usually more consistently yellow than the more southerly populations. At  De Hoop, and other specific locations in the Western Cape,
+    all colour variations have been recorded. \n\nJuvenile specimens generally have conspicuously dark throats extending down the belly
+    for the width of a dozen or so ventral scales. The colour fades during the first year or two of life, but while it lasts it commonly
+    leads laymen to confuse the juvenile Cape cobra with the Rinkhals spitting cobra.</string>
+
+    <!-- /////////////////// Jararaca  ///////////////////////// -->
+    <string name="jararaca_distribution"><b>Jararaca are found in Brazil, Paraguay, Argentina.</b> The snake can be found in tropical forests, savanna
+     country, semitropical upland forests, farmlands, open areas. They are also found in mountainous range of over 1000m </string>
+
+    <string name="jararaca_scientific_name"><b>Scientific Name: </b>Bothrops jararaca</string>
+
+    <string name="jararaca_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="jararaca_common_name">Common Name\'s include Yarara, Yararaca Perezosa (in Argentina, Paraguay, and Uruguay), Caissaca, Jaraca, Jararaca-do-rabo-branco,
+    Jararaca-do-cerrado, Jararaca-dormideira, Jararaca-dominhoca and Malha-de-sapo (in Brazil)</string>
+
+    <string name="jararaca_description"><b>Description: </b>This is a slender and terrestrial species that grows to a maximum total length of
+    160 cm (63 in), although the average total length is much less. \n\nThe color pattern is extremely variable, consisting of a dorsal ground
+    color that may be tan, brown, gray, yellow, olive, or almost maroon. Midbody, this color is usually somewhat lighter than the head, anterior
+    and posterior. The dorsal ground color is overlaid with a series of pale-edged, dark brown subtriangular or trapezoidal markings on either
+    side of the body, the apices of which reach the vertebral line. \n\nThe head has a prominent dark brown stripe that runs from behind the eye,
+    on either side of the head, back to the angle of the mouth, usually touching the last three supralabials. Dorsally, this stripe is bordered
+    by a distinct pale area. The tongue is black, and the iris is gold to greenish gold with slightly darker reticulations.</string>
+
+    <!-- /////////////////// South American Bush Master //////// -->
+    <string name="southamerican_bushmaster_distribution"><b> South American Bush master is found in </b>Colombia, Brazil, Ecuador, Bolivia,
+    Venezuela, Trinidad, Guyana, Suriname, and French Guiana. The Snake is primarily found in Primary and Secondary Forests, Adjacent Fields,
+    Cleared Areas and in Mountainous Regions (in Trinidad).</string>
+
+    <string name="southamerican_bushmaster_scientific_name"><b>Scientific Name: </b>Lachesis muta</string>
+
+    <string name="southamerican_bushmaster_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="southamerican_bushmaster_common_name">Common Name\'s include Atlantic Forest Bushmaster, Mapepire Zanana or Mapepire Grande (in Trinidad), Surucucú
+    (in Amazon Basin), Shushúpe (in Peru), Pucarara (in Bolivia), Cuaima (in Venezuela), Verrugosa or Verrugoso (in Colombia),
+    Makka sneki and Makkaslang (in Suriname)</string>
+
+    <string name="southamerican_bushmaster_description"><b>Description: </b>Adults grow to an average of 2 to 2.5 m (6½-8 feet), although 3 m (10 feet) is not too unusual.
+    \n\nThe head is broad and distinct from the narrow neck. The snout is broadly rounded. There is no canthus. A pair of small internasals
+    is present, separated by small scales. \n\nThe body is cylindrical, tapered and moderately stout. Midbody there are 31-37 nonoblique
+    rows of dorsal scales which are heavily keeled with bulbous tubercles and feebly imbricate. \n\nThe color pattern consists of a yellowish,
+    reddish or grey-brown ground color, overlaid with a series of dark brown or black dorsal blotches that form lateral inverted
+    triangles of the same color. The lateral pattern may be precisely or indistinctly defined, normally pale at the center.</string>
+
+    <!-- /////////////////// Gaboon Viper ////////////////////// -->
+    <string name="gaboon_viper_distribution"><b>Gaboon Viper\'s are found in </b>Gabon, Sierra Leone, Liberia, Angola, Ghana, Guinea, Nigeria, Togo, Cameroon,
+    Republic of Congo, Equatorial Guinea, DR Congo, South Sudan, Central African Republic, Kenya, Uganda, Tanzania, Zambia, Malawi, Zimbabwe,
+    Mozambique, and South Africa. \n\nThe Snake is usually found in Rainforest\'s, nearby Woodlands, Secondary Thickets, Cashew Plantations,
+    Agricultural lands, Grasslands, Cacao Plantations, Coffee Plantations, Evergreen Forests, Swamps, and near Water Sources.</string>
+
+    <string name="gaboon_viper_scientific_name"><b>Scientific Name: </b>Bitis gabonica</string>
+
+    <string name="gaboon_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="gaboon_viper_common_name">Common Name\'s include Butterfly Adder, Forest Puff Adder, Whisper, Swampjack, Gaboon Adder.</string>
+
+    <string name="gaboon_viper_description"><b>Description: </b>Adults average 125–155 cm (4 to 5 feet) in total length (body plus tail).
+    The sexes may be distinguished by the length of the teeth in relation to the total length of the body. Adults, especially females, are very heavy and stout. \n\nThe head is large and triangular, while the neck is
+    greatly narrowed; almost one-third the width of the head. A pair of "horns" is present between the raised nostrils. \n\n
+    The color pattern consists of a series of pale, subrectangular blotches running down the center of the back, interspaced
+    with dark, yellow-edged hourglass markings. The flanks have a series of fawn or brown rhomboidal shapes, with light vertical central
+    bars. The belly is pale with irregular brown or black blotches. The head is white or cream with a fine, dark central line, black
+    spots on the rear corners, and a dark blue-black triangle behind and below each eye.</string>
+
+    <!-- /////////////////// Chinese Cobra ////////////////////// -->
+    <string name="chinese_cobra_distribution"><b>Chinese Cobra are native to </b>China, Hong Kong, Laos, Vietnam, and Taiwan. \n The Snake
+    can be found in Shrublands, Grasslands, Woodlands, Jungle\'s, Open Fields, Rice Fields, and Mangroves. The Snake usually hides
+    under leaves, sticks, and rocks.</string>
+
+    <string name="chinese_cobra_scientific_name"><b>Scientific Name: </b>Naja atra</string>
+
+    <string name="chinese_cobra_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="chinese_cobra_common_name">Common Name\'s include Taiwan Cobra, Chinese Spectacled Snake (Zhōnghuá yǎnjìngshé),
+    Zhoushan Spectacled Snake (Zhōushān yǎnjìngshé), Rice Paddle Head (fànchǎntóu), Rice Paddle Snake (pn̄g-sî-chhèng), Spectacled Snake
+    (ba̍k-kiàⁿ-chôa), Long-Chinned Snake (tn̂g-ām-chôa)</string>
+
+    <string name="chinese_cobra_description"><b>Description: </b>This medium-sized snake is usually 1.2 to 1.5 metres (3.9 to 4.9 ft) long,
+    but they can grow to a maximum length of 2 metres (6.6 ft) though this is rare. \n\nThe hood mark shape is variable from spectacle,
+    mask to horseshoe or O- shape and is often linked to light throat area on at least one side. The throat area is clearly defined
+    light which is usually with a pair of clearly defined lateral spots. \n\nThe Chinese cobra is iridescent black with a number of
+    distant transversal double lines of a yellow colour. The abdominal surface is pearl or slaty coloured. The dorsal color of the Chinese
+    cobra is usually brown, grey or black, with or without narrow, light transverse lines at irregular intervals which are especially
+    prominent in juveniles. /n/nThe head on this species is broad, slightly triangular in shape and is slightly distinct from the neck.
+    The dorsal scales are smooth and glossy, while the dorsolateral scales are strongly oblique.</string>
+
+    <!-- /////////////////// Monocled Cobra ///////////////////// -->
+    <string name="monocled_cobra_distribution"><b>Monocled Cobra are found in </b>India, China, Vietnam, Cambodia, Malay Peninsula, Bangladesh,
+    Bhutan, Laos, Nepal, Thailand, and Bhutan. The Snake can be found in Paddy Fields, Swamps, Mangroves, Agricultural Lands, Grasslands, Shrublands, and Forests. </string>
+
+    <string name="monocled_cobra_scientific_name"><b>Scientific Name: </b>Naja kaouthia</string>
+
+    <string name="monocled_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="monocled_cobra_common_name">The Monocled Cobra is also known as Monocellate cobra </string>
+
+    <string name="monocled_cobra_description"><b>Description: </b>The monocled cobra has an O-shaped, or monocellate hood pattern.
+     The dorsal surface may be yellow, brown, gray, or blackish, with or without ragged or clearly defined cross bands. \n\n
+    It can be olivaceous or brownish to black above with or without a yellow or orange-colored, O-shaped mark on the hood.
+    It has a black spot on the lower surface of the hood on either side, and one or two black cross-bars on the belly behind it.
+    The rest of the belly is usually the same color as the back, but paler.</string>
+
+    <!-- /////////////////// Egyptian Cobra ///////////////////// -->
+    <string name="egyptian_cobra_distribution"><b>Egyptian Cobra are native to </b>Egypt, Morocco, Tanzania, Niger, Nigeria, Senegal, Somalia,
+    Sudan, Uganda, Zimbabwe, Yemen, Algeria, Central African Republic, Congo, Chad, Ethiopia, Kenya, Libya, Mali, and Guinea. \n The Snake
+    can be found in Steppes, Savanna, Agricultural Fields, Scrub Vegetation, Arid Semi Desert Regions, and Near Water Sources. </string>
+
+    <string name="egyptian_cobra_scientific_name"><b>Scientific Name: </b>Naja haje</string>
+
+    <string name="egyptian_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="egyptian_cobra_common_name">Common Name\'s include African Banded Cobra, Banded Cobra, Brown Cobra, and Arabian Cobra.</string>
+
+    <string name="egyptian_cobra_description"><b>Description: </b>The Egyptian cobra is one of the largest cobras of the African continent.
+    The head is large and depressed and slightly distinct from the neck. The neck of this species has long cervical ribs capable of
+    expanding to form a hood, like all other cobras. \n\nThe snout of the Egyptian cobra is moderately broad and rounded. The eyes
+    are quite big with round pupils. The body of the Egyptian cobra is cylindrical and stout with a long tail. The length of the
+    Egyptian cobra is largely dependent on subspecies, geographical locale, and population. \n\nThe colour is highly variable,
+    but most specimens are some shade of brown, often with lighter or darker mottling, and often a "tear-drop" mark below the eye. Some are
+    more copper-red or grey-brown in colour. Specimens from northwestern Africa (Morocco, western Sahara) are almost entirely black.
+    \n\nThe ventral side is mostly a creamy white, yellow brown, grayish, blue grey, dark brown or black in colouration, often with dark spots.</string>
+
+    <!-- /////////////////// Banded Water Cobra ///////////////// -->
+    <string name="banded_water_cobra_distribution"><b>Banded Water Cobra are found in </b>Gabon, Rwanda, Angola, Cameroon, Central African Republic,
+    Equatorial Guinea, Tanzania, and Zambia. \n The Snake is largely an Aquatic Species and has been rarely found far away from water sources. </string>
+
+    <string name="banded_water_cobra_scientific_name"><b>Scientific Name: </b>Naja annulata</string>
+
+    <string name="banded_water_cobra_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency</string>
+
+    <string name="banded_water_cobra_common_name">Banded Water Cobra is also know as Ringed Water Cobra</string>
+
+    <string name="banded_water_cobra_description"><b>Description: </b>It is a large, heavy-bodied snake with a short, broad and flat head with
+    an indistinct canthus and distinct from the neck. It has medium-sized dark eyes with round pupils. The body is cylindrical; the tail is long.
+    \n\nThe scales are smooth and glossy, in 21-23 rows at midbody. Adults grow to an average of 1.4 to 2.2 metres (4.6 to 7.2 ft) in length,
+    but they can grow to a maximum of 2.7 metres (8.9 ft). Scales are smooth, indicating the largely aquatic life of this species. It is
+    capable of spreading a narrow, yet impressive hood. \n\nBody colors are mostly glossy brown, grayish-brown, or reddish-brown with black
+    bands all along the body. The belly is pale yellow, while the tail is wholly black.</string>
+
+    <!-- /////////////////// Congo Water Cobra ////////////////// -->
+    <string name="congo_water_cobra_distribution"><b>Congo Water Cobra are native to </b>Democratic Republic of Congo, Republic of Congo, Gabon,
+    Angola. \n The Snake is usually found near water sources and in lowland bushy or wooded areas along banks of rivers, lakes, and streams. The
+    Snake is limited to the lower Congo River.</string>
+
+    <string name="congo_water_cobra_scientific_name"><b>Scientific Name: </b>Naja christyi</string>
+
+    <string name="congo_water_cobra_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency</string>
+
+    <string name="congo_water_cobra_common_name">Congo Water Cobra is also known as the Christy\'s water cobra.</string>
+
+    <string name="congo_water_cobra_description"><b>Description: </b>This is a medium to moderately large in length, somewhat compressed,
+    moderately slender bodied, but heavily built snake with a medium length tapering tail.The head is short, with an indistinct canthus and distinct
+    from the neck. The neck is capable of being spread into a hood. The eyes are relatively small in size with round pupils. Dorsal scales
+    are smooth and shiny. \n\nThe average length of an adult specimen is around 1.1 metres (3.6 ft), but they may grow upwards of 2.3 metres (7.5 ft).
+    \n\n Colouration is blackish brown above, the nape and the anterior third of the body with irregular pale brown and black cross bars, the black
+    forming rings on the neck; upper lip pale brown, with black lines on the sutures between the shields; lower surface of head brownish white, belly
+    and lower surface of tail blackish.</string>
+
+    <!-- /////////////////// Black Desert Cobra ///////////////// -->
+    <string name="black_desert_cobra_distribution"><b>Black Desert Cobra are native to the Middle East.</b> They are found in Israel, Egypt, Jordan,
+    Palestine, Lebanon, Syria, and Saudi Arabia. \n The Snake is usually found in the Deserts. They can also be found in semi-dessert
+    scrublands, rocky terrain, agricultural fields, and in foothills of vegetated Mediterranean terrain.</string>
+
+    <string name="black_desert_cobra_scientific_name"><b>Scientific Name: </b>Walterinnesia aegyptia</string>
+
+    <string name="black_desert_cobra_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="black_desert_cobra_common_name">Black Desert Cobra is also known as Desert Black Snake</string>
+
+    <string name="black_desert_cobra_description"><b>Description: </b>These snakes are medium in length, with a medium, cylindrical
+    body and a short tail. Their average length is 0.5 meters (1 ft 8 in), but they can grow to lengths of 1.8 meters (5 ft 11 in). \n\n
+    Their head is moderately small, broad, flattened and slightly distinct from the neck. The snout is broad, sharply edged with a
+    distinct canthus rostralis. The eyes are small in size with round pupils. \n\nUnlike other snakes commonly referred to as
+    "cobras", the black desert cobra neither rears up nor produces a hood before striking in defense.</string>
+
+    <!-- /////////////////// Katian Spitting (Mali) Cobra //////// -->
+    <string name="mali_cobra_distribution"><b>Mali Cobra are native to </b>Mali, Burkina Faso, Cameroon, Senegal, Ivory Coast, Gambia, Ghana, Guinea,
+    Guinea-Bissau, Niger, Nigeria, and Togo. \n The Snake is primarily found in Savanna, and in Open Forests.</string>
+
+    <string name="mali_cobra_scientific_name"><b>Scientific Name: </b>Naja katiensis</string>
+
+    <string name="mali_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="mali_cobra_common_name">Mali Cobra is also known as Katian Spitting Cobra</string>
+
+    <!-- /////////////////// Mozambique Spitting Cobra /////////// -->
+    <string name="mozambique_cobra_distribution"><b>Mozambique Spitting Cobra are native to </b>Mozambique, South Africa, Zambia, Tanzania, Angola,
+     Swaziland, Zimbabwe, Malawi, Botswana, and Namibia. \nThe Snake is primarily found in Savanna regions of the tropical and sub-tropical Africa and near water sources.</string>
+
+    <string name="mozambique_cobra_scientific_name"><b>Scientific Name: </b>Naja mossambica</string>
+
+    <string name="mozambique_cobra_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="mozambique_cobra_description"><b>Description: </b>In color the snake is slate to blue, olive or tawny black above, with some or all scales
+    black-edging. Below, salmon pink to purple yellowish, with black bars across the neck and ventrals speckled or edged with brown or black; young
+    specimens sometimes have pink or yellow bars on the throat. \n\nThe average length of adults is between 90 cm - 105 cm (3-3½ feet).</string>
+
+    <!-- /////////////////// Zebra Spitting Cobra //////////////// -->
+    <string name="zebra_cobra_distribution"><b>Zebra Spitting Cobra are native to </b>Namibia, South Africa, Botswana, Lesotho, and Angola</string>
+
+    <string name="zebra_cobra_scientific_name"><b>Scientific Name: </b>Naja nigricincta</string>
+
+    <string name="zebra_cobra_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="zebra_cobra_common_name">Zebra Spitting Cobra is also known as Western Barred Spitting Cobra, Zebra Snake, and Black Spitting Cobra</string>
+
+    <string name="zebra_cobra_description"><b>Description: </b>Zebra Spitting Cobra is an  oviparous venomous spitting cobra with dark brown to
+    black body and zebra-like vertical whitish or light yellow stripes along the dorsal side. These stripes are generally evenly spaced and
+    can be complete or fragmented. \n\nThe ventral scales range from white to orange in color. In juvenile snakes the overall coloration is
+    lighter than in the adults. These snakes can flatten head and neck into a hood, similarly to many species of cobra. The heads and hoods
+    are uniformly dark brown or black.</string>
+
+    <!-- /////////////////// Black-Necked Spitting Cobra ////////// -->
+    <string name="black_necked_cobra_distribution"><b>Black-Necked Spitting Cobra are found in </b>Angola, Benin, Burkina Faso, Cameroon,
+    Central African Republic, Niger, Nigeria, Sierra Leone, Senegal, Gambia, Sudan, Tanzania, Togo, Somalia, Guinea, Guinea-Bissau,
+    Kenya, Liberia, Mali, Mauritania, Ivory Coast, Congo, Ethiopia, Gabon, Ghana, Chad, Democratic Republic of Congo, Uganda, and Zambia. \n
+    \nThe Snake is predominately found in the Savanna and Semi-desert regions of Africa. They can be also found in Tropical and Sub-tropical
+    regions of Central Africa.</string>
+
+    <string name="black_necked_cobra_scientific_name"><b>Scientific Name: </b>Naja nigricollis</string>
+
+    <string name="black_necked_cobra_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="black_necked_cobra_description"><b>Description: </b>Black-Necked Spitting Cobra is a moderately sized, venomous snake
+    with a moderately distinct head; the shape of the head is due primarily to two large venom glands found on each side of the head.
+    \n\nIts colour can vary depending on region of origin. Some specimens are black or pale grey with a yellow or reddish ventral
+    side with a broad, black neck band, often with an orange or pinkish bar on the neck. \n\nOther specimens can be yellowish-brown or have a
+    yellow copper colour and are missing the bandings around the neck and the reddish colour on the belly. Some other specimens are deep
+    reddish-brown, and yet others are an olive brown. Some can even be striped black and white or totally white (with dark eyes).</string>
+
+    <!-- /////////////////// Red Spitting Cobra /////////////////// -->
+    <string name="red_cobra_distribution"><b>Red Spitting Cobra are native to East Africa.</b> They are found in Kenya, Chad, Tanzania, Sudan,
+    Ethiopia, Egypt, Djibouti, Eritrea, and Somalia. \n  \nThe Snake primarily inhabits Dry Savanna and Semi-desert areas of East Africa.</string>
+
+    <string name="red_spitting_cobra_scientific_name"><b>Scientific Name: </b>Naja pallida</string>
+
+    <string name="red_spitting_cobra_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="red_spitting_cobra_common_name">Common Name\'s include African Cobra and Rote Speikobra</string>
+
+    <string name="red_spitting_cobra_description"><b>Description: </b>This medium-sized cobra attains lengths between 0.7 and 1.2 meters (2.3 and 3.9 ft).
+    The Coloration is usually bright salmon-red contrasted with a broad black throat band and subocular teardrop markings. However, the color
+    of this species does have variation, which usually depends on where in Africa a particular specimen is found. \n\nFor example, specimens
+    from southern Kenya and northern Tanzania have an orange-red colour, with a broad, dark blue or black throat band. Some specimens may have
+    two or three throat bands, but this is uncommon for specimens from East Africa. The ventral side is also reddish in colour, sometimes the
+    throat area may be a creamy white. \n\nSpecimens from other areas can be yellow, pinkish, pink-grey, pale red or steel grey. Most specimens
+    will have a throat band, but it will fade or even sometimes disappear in larger adults. The true red specimens will become reddish-brown in
+    colour as they age and grow in size. \n\nThe body of this snake is slightly depressed, tapered and moderately slender with a medium-length tail.
+    It is slightly compressed dorsoventrally and subcylindrical posteriorly. The head is broad, flattened and slightly distinct from the neck.</string>
+
+    <!-- /////////////////// Samar Cobra ////////////////////////// -->
+    <string name="samar_cobra_distribution"><b>Samar Cobra are native to Philippines </b> They are found in the Philippine Islands of
+    Visayas and Mindanao. \n \n The Snake can be found in Mountains, Forests, Tropical Plains, Open Field and close to Human Settlements.</string>
+
+    <string name="samar_cobra_scientific_name"><b>Scientific Name: </b>Naja samarensis</string>
+
+    <string name="samar_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="samar_cobra_common_name">Common Name\'s include Peters Cobra, Southern Philippine Cobra, and Visayan Cobra</string>
+
+    <string name="samar_cobra_description"><b>Description: </b>The Samar cobra is a species of spitting cobra that can grow up to 1.4 meters in length.
+    Their coloring varies from a black and yellow to green.</string>
+
+    <!-- /////////////////// Indo Chinese Spitting Cobra ////////// -->
+    <string name="indochinese_cobra_distribution"><b>Indo Chinese Spitting Cobra are native to South East Asia </b>They are found in
+    Cambodia, Thailand, Vietnam, and Laos. \n\n The Snake can be found in Lowlands, Hills, Plains, Woodlands, Jungles, and in Agricultural Fields. </string>
+
+    <string name="indo_chinese_cobra_scientific_name"><b>Scientific Name: </b>Naja siamensis</string>
+
+    <string name="indo_chinese_cobra_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="indo_chinese_cobra_common_name">Common Name\'s include Thai Spitting Cobra, Siamese Spitting Cobra, Black-and-White Spitting
+    Cobra</string>
+
+    <string name="indo_chinese_cobra_description"><b>Description: </b>This is a medium-sized cobra with a rather thin body compared to other cobras.
+    The body color of this species is variable from grey to brown to black, with white spots or stripes. The white patterning can be so prolific
+    that it covers the majority of the snake. \n\n The highly distinctive black and white colour phase is common in central Thailand, specimens
+    from western Thailand are mostly black, whereas individuals from elsewhere are usually brown. \n\nThe hood mark can be spectacle-shaped,
+    irregular or missing altogether, especially in adults.[2] Adults average 0.9 to 1.2 metres (3.0 to 3.9 ft) long.</string>
+
+    <!-- /////////////////// Javan Spitting Cobra ///////////////// -->
+    <string name="javan_cobra_distribution"><b>Javan Spitting Cobra ane native to Indonesia</b> \n \n The Snake can be found in Tropical Forests,
+    Wet Forests, Arid regions, Dry Woodlands, Cultivated Hill Country, Dry Savanna, and in Deciduous Monsoon Forests.</string>
+
+    <string name="javan_cobra_scientific_name"><b>Scientific Name: </b>Naja sputatrix</string>
+
+    <string name="javan_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="javan_cobra_common_name">Common Name\'s include Southern Indonesian Cobra and Indonesian Cobra</string>
+
+    <string name="javan_cobra_description"><b>Description: </b>The Javan spitting cobra is a medium to large, heavy-bodied species which,
+    like other cobras, has long cervical ribs capable of expanding to form a hood when threatened. The body of this species is compressed
+    dorsoventrally and subcylindrical posteriorly. \n\nThe average length of this species of cobra is approximately 1.3 m (4.3 ft), but
+    they may grow to a maximum of about 1.85 m (6.1 ft).</string>
+
+    <!-- /////////////////// Equatorial Spitting Cobra //////////// -->
+    <string name="equatorial_cobra_distribution"><b>Equatorial Spitting Cobra are found in </b>Brunei, Malaysia, Indonesia, Singapore,
+    Thailand, and in the Philippines. \n\n The Snake can be found mainly in Primary and Secondary Tropical Forests, Dense Jungle Terrain,
+    Gardens, Parks, and in Human Settlements.</string>
+
+    <string name="equatorial_cobra_scientific_name"><b>Scientific Name: </b>Naja sumatrana</string>
+
+    <string name="equatorial_cobra_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="equatorial_cobra_common_name">Common Name\'s include Black Spitting Cobra, Malayan Spitting Cobra, Golden Spitting Cobra,
+    Sumatran Spitting Cobra.</string>
+
+    <string name="equatorial_cobra_description"><b>Description: </b>This species is medium in length, averaging between 0.9 to 1.2 metres
+    (3.0 to 3.9 ft) in length, though they can grow a bit longer to 1.5 metres (4.9 ft). \n\nThe body is compressed dorsoventrally and
+    sub-cylindrical posteriorly. The head of this species is elliptical, depressed, and slightly distinct from the neck with a short,
+    rounded snout and large nostrils. Eyes are medium in size with round pupils. \n\nThis species of cobra has no hood marks and
+    colouration varies based upon geographical location. There are two colour phases: a yellow form commonly found in Thailand, and a black
+    form found in Peninsular Malaysia, Singapore, and the islands where it occurs in Indonesia and the Philippines. Juveniles and adults
+    also tend to be of different colour.</string>
+
+    <!-- ////////////////// Ring-Necked Spitting Cobra //////////// -->
+    <string name="ring_necked_cobra_distribution"><b>Ring-Necked Spitting Cobra are native to </b>South Africa, Lesotho, Swaziland, Zimbabwe,
+    Mozambique. \n\n The Snake prefers to live in Grasslands and Swamps because it allows them to blend in with the Surroundings.</string>
+
+    <string name="ring_necked_spitting_scientific_name"><b>Scientific Name: </b>Hemachatus haemachatus</string>
+
+    <string name="ring_necked_spitting_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="ring_necked_spitting_common_name">Common Name\'s include Rinkhals and Ringhals.</string>
+
+    <string name="ring_necked_spitting_description"><b>Description: </b>Coloration varies throughout its distribution area, but a
+    characteristic of the species is the belly is dark with one or two light-coloured crossbands on the throat. Their average length is 90–110 cm. \n\n
+    Some individuals may have a mostly black body, while others are striped. Rinkhals scales are distinct from those of true cobras
+    in that they are ridged and keel-like.</string>
+
+    <!-- ////////////////// Puff Adder //////////////////////////// -->
+    <string name="puff_adder_distribution"><b>Puff Adder are the most commonly found snake in Africa </b>They are found in Morocco, Mauritania, Senegal, Mali, southern Algeria, Guinea, Sierra Leone,
+    Ivory Coast, Ghana, Togo, Benin, Niger, Nigeria, Chad, Sudan, Cameroon, Central African Republic, northern, eastern and southern Democratic Republic of the Congo, Uganda,
+    Kenya, Somalia, Rwanda, Burundi, Tanzania, Angola, Zambia, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, Saudi Arabia, and Yemen \n\n
+    The Snake is found in all habitats except True Deserts, Rainforests, and Alpine habitats. Puff Adder is usually associated with rocky
+    grasslands.</string>
+
+    <string name="puff_adder_scientific_name"><b>Scientific Name: </b>Bitis arietans</string>
+
+    <string name="puff_adder_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="puff_adder_common_name">Common Name\'s include African Puff Adder and Common Puff Adder.</string>
+
+    <string name="puff_adder_description"><b>Description: </b>The average size is about 1m (39.3 inches) in total length and very stout.
+    Males are usually larger than females and have relatively longer tails. The head has a less than triangular shape with a blunt and rounded
+    snout. Still, the head is much wider than the neck. \n\nThe color pattern varies geographically. The head has two well-marked dark bands:
+    one on the crown and the other between the eyes. On the sides of the head, there are two oblique dark bands or bars that run from the eye
+    to the supralabials. Below, the head is yellowish white with scattered dark blotches. Iris color ranges from gold to silver-gray. \n\n
+    This is overlaid with a pattern of 18–22 backwardly-directed, dark brown to black bands that extend down the back and tail. Usually these
+    bands are roughly chevron-shaped, but may be more U-shaped in some areas. They also form 2–6 light and dark cross-bands on the tail. </string>
+
+    <!-- ////////////////// Rhinoceros Viper ////////////////////// -->
+    <string name="rhinoceros_viper_distribution"><b>Rhinoceros vipers are native to Western and Central Africa. </b>The Snakes are found in
+    Guinea, Sierra Leone, Liberia, Ivory Coast, Ghana, Central African Republic, Sudan, Cameroon, Angola, DR Congo, Gabon, Congo, Rwanda,
+    Uganda, and Kenya. \n\n The Snake primary habitat is Forested areas, rarely venturing into other habitats like woodlands.</string>
+
+    <string name="rhinoceros_viper_scientific_name"><b>Scientific Name: </b>Bitis nasicornis</string>
+
+    <string name="rhinoceros_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="rhinoceros_viper_common_name">Common Name\'s include River Jack and Arrowhead Viper.</string>
+
+    <string name="rhinoceros_viper_description"><b>Description: </b>Large and stout, it ranges in total length from 72 to 107 cm (about 28 to 42 inches).
+    \n\nThe head is narrow, flat, triangular and relatively small compared to the rest of the body. The neck is thin. It has a distinctive set
+    of two or three horn-like scales on the end of the nose, the front pair of which may be quite long. The eyes are small and set well forward.
+    The fangs are not large: rarely more than 1.5 cm (0.59 in) long. \n\nThe color pattern consists of a series of 15–18 blue or blue-green,
+    oblong markings, each with a lemon-yellow line down the center. These are enclosed within irregular, black, rhombic blotches. A series of
+    dark crimson triangles run down the flanks, narrowly bordered with green or blue. Many of the lateral scales have white tips, giving the
+    snake a velvety appearance. \n\nThe top of the head is blue or green, overlaid with a distinct black arrow mark. The belly is dull green
+    to dirty white, strongly marbled and blotched in black and gray. Western specimens are more blue, while those from the east are more green.
+    After they shed their skins, the bright colors fade quickly as silt from their generally moist habitat accumulates on the rough scales.</string>
+
+    <!-- ////////////////// King Brown Snake ////////////////////// -->
+    <string name="king_brown_distribution"><b>King Brown Snake are native to Australia </b> They are found in almost all states except Victoria and
+    Tasmania. \n\n The Snake can be found in variety of habitats including Closed Tropical Monsoon Forest, Triodia hummock grassland,
+    chenopod shrubland, Gibber Plains, Sandy Desert, and in Wheat Fields.</string>
+
+    <string name="king_brown_scientific_name"><b>Scientific Name: </b>Pseudechis australis</string>
+
+    <string name="king_brown_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="king_brown_common_name">King Brown Snake is also known as Mulga Snake.</string>
+
+    <string name="king_brown_description"><b>Description: </b>Kinig Brown Snakes are large, venomous snakes growing up to 2.5 to 3.0 m (8.2 to 9.8 ft)
+    in length in the largest specimens, although 1.5 m (4.9 ft) is a more typical length for an average adult. \n\nThe colour of the snakes
+    differs from area to area within their range; they can be a light brown colour in the desert to a dark, brown-blackish colour in the cooler
+    regions of Queensland, South Australia, and New South Wales. This snake is robust, with a wide head and smooth snout.</string>
+
+    <!-- ////////////////// Red-Bellied Black Snake /////////////// -->
+    <string name="red_black_distribution"><b>Red-Bellied Black snake are native to Eastern Australia </b>\n\n The Snake is primarily found
+    near water sources including Dams, Billabongs, Lakes, Rivers, and Streams.</string>
+
+    <string name="red_black_scientific_name"><b>Scientific Name: </b>Pseudechis porphyriacus</string>
+
+    <string name="red_black_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="red_black_common_name">Common Name\'s include Common Black Snake, Red-belly, and RBBS.</string>
+
+    <string name="red_black_description"><b>Description: </b>The red-bellied black snake is glossy black on the dorsal surface and red,
+    crimson or pink in colour on the lower sides and belly. The snout is often a lighter brown colour. \n\nIt is a relatively medium
+    species of snake reaching up to 2 metres (6 ft 7 in) in total length (including tail), with an extreme example measuring 2.5 metres
+    (8 ft 2 in), although an average sized specimen would be closer to 1.4 metres (4 ft 7 in).</string>
+
+    <!-- ////////////////// Dugite //////////////////////////////// -->
+    <string name="dugite_distribution"><b>Dugite are native to the Southern parts of Western Australia</b>\n\n The Snake can be found in
+    Coastal Dunes, Heathlands, Shrublands, Woodlands, Forests, Agricultural Fields, and in Human Settlements</string>
+
+    <string name="dugite_scientific_name"><b>Scientific Name: </b>Pseudonaja affinis</string>
+
+    <string name="dugite_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="dugite_common_name">Dugite is also known as Spotted Brown Snake, and Dobitj (in Nyungar Language)</string>
+
+    <string name="dugite_description"><b>Description: </b>The dugite is coloured grey, green, or brown. The colours vary widely between
+    individuals and are an unreliable means of identifying the species. \n\nBlack scales can be scattered over the body; their scales are
+    relatively large with a semi-glossy appearance. The most distinguishing characteristic is the head that can be rather small and indistinct
+    from the neck. \n\nA dugite\'s body is long and slender in build and can grow up to 2 m (6 ft 7 in) in total length (including tail), but
+    the average size is roughly 1.5 metres.</string>
+
+    <!-- ////////////////// Western Brown Snake /////////////////// -->
+    <string name="western_brown_distribution"><b>Western Brown Snake are native to Australia</b>\n\n The Snake is mainly found in Open
+    Landscapes such as Woodlands, Scrublands, Savanna, and in Grasslands.</string>
+
+    <string name="western_brown_scientific_name"><b>Scientific Name: </b>Pseudonaja nuchalis</string>
+
+    <string name="western_brown_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="western_brown_common_name">Western Brown Snake is also known as Common Brown Snake, and Gwardar.</string>
+
+    <string name="western_brown_description"><b>Description: </b>The western brown snake grows up to 1.5 m (4.9 ft) in total length (including tail).
+    \n\nIts back can feature shades of orange-brown with flecks and bands, or appear plain. Its belly is cream to orange with pink blotches.
+    Some individuals have jet black heads, while others feature a black \'V\' shape on the back of their neck, below their head.</string>
+
+    <!-- ////////////////// Tiger Rattlesnake ///////////////////// -->
+    <string name="tiger_rattlesnake_distribution"><b>Tiger Rattlesnake are found in </b>Southwestern Unite States of America and Northwestern
+    Mexico \n\n The Snake is usually found in Rocky Desert Canyons, Foothills, Bajadas, in Vegetation Zones including Thornscrub, Chaparral,
+    Ocotillo-mesquite-creosote bush, Saguaro-paloverde, Mesquite Grassland, Tropical Deciduous Forests, and in Oak Woodlands.</string>
+
+    <string name="tiger_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus tigris</string>
+
+    <string name="tiger_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="tiger_rattlesnake_common_name">Tiger Rattlesnake is also known as Tiger Rattler.</string>
+    
+    <string name="tiger_rattlesnake_description"><d>Description: </d>The tiger rattlesnake is easily identified by its small, spade-shaped head,
+    which is about 1/25 of its total body length. \n\nThe color pattern consists of a gray, lavender, blue-gray, pink, or buff ground color
+    that usually turns to pink, pale orange, or cream on the sides. Tiger rattlesnakes are the only rattlesnake with crossbands on the anterior
+    portion of their bodies, with a series of 35 to 52 gray, olive, or brown bands across the dorsum consisting mainly of heavy punctations.</string>
+
+    <!-- ////////////////// Venezuelan Rattlesnake //////////////// -->
+    <string name="venezuelan_rattlesnake_distribution"><b>Venezuelan Rattlesnake are native to </b>Venezuela and Colombia. \n\n The Snake
+    prefers the Savanna, and Semi-arid regions of Venezuela. its found in Littoral Xerophilous Scrub, Psammophilous, Halophilous Littoral Grasslands,
+    Thorny Xerophilous Scrub, Tropophilous Deciduous and Semideciduous Scrub.</string>
+
+    <string name="venezuelan_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus durissus cumanensis</string>
+
+    <string name="venezuelan_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="venezuelan_common_name">Common Name\'s include South American Rattlesnake, Tropical Rattlesnake, Neotropical Rattlesnake,
+    Guiana Rattlesnake, Víbora de cascabel, Cascabel, Cascabela, Cascavel (in Spanish), and Sakasneki (in Suriname)</string>
+
+    <string name="venezuelan_description"><b>Description: </b>This large Neotropical rattlesnake grows to a length of 1.5 m (4.9 ft), and
+    rarely to a maximum length of 1.9 m (6.2 ft). It has two distinct stripes starting at the base of the head. Within the lines, the color
+    is lighter than the stripes.</string>
+
+    <!-- ////////////////// Uracoan Rattlesnake /////////////////// -->
+    <string name="uracoan_distribution"><b>Uracoan rattlesnake are native to Venezuela</b>.\n\nThe Snake has a very small territory, the Open
+    Lightly-wooded Grasslands of the Maturin Savanna near Uracoa in Northeast Venezuela.</string>
+
+    <string name="uracoan_scientific_name"><b>Scientific Name: </b>Crotalus durissus vegrandis</string>
+
+    <string name="uracoan_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <!-- ////////////////// Aruba Rattlesnake ///////////////////// -->
+    <string name="aruba_snake_distribution"><b>Aruba Rattlesnake are native to </b> the Caribbean Island of Aruba. \n\nThe Snake is Endemic to
+    the Aruba Island and is found in Thornscrub, and in the Desert.</string>
+
+    <string name="aruba_scientific_name"><b>Scientific Name: </b>Crotalus durissus unicolor</string>
+
+    <string name="aruba_conservation_status"><b>UN Conservation Status: </b>Critically Endangered Wildlife. It\'s estimated that only 230 Adults
+    are in the wild.</string>
+
+    <string name="aruba_common_name">Common Name\'s include Aruba Island Rattlesnake and Cascabel (in Papiamento)</string>
+
+    <string name="aruba_description"><b>Description: </b>Moderately sized, this species attains an adult length of approximately 90 cm, and
+    weighs about one kilogram. \n\n It is light brown, tan, or almost pink in color, reflecting the soil color of its native habitat, with
+    darker brown diamond-shaped markings, but colors may vary from white to apricot, or brown to slate. The markings are sometimes nearly
+    invisible, or only visible in a narrow stripe down the middle of the back.</string>
+
+    <!-- ////////////////// Banded Rock Rattlesnake /////////////// -->
+    <string name="banded_rock_distribution"><b>Banded Rock Rattlesnake are native to </b>the Southwestern USA and Northern Mexico. \n\nThe
+    Snake is usually found in Rocky Mountainous Areas, Arid and Semi-arid regions, Oak Woodlands, and in Grasslands.</string>
+
+    <string name="banded_rock_scientific_name"><b>Scientific Name: </b>Crotalus lepidus klauberi</string>
+
+    <string name="banded_rock_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="banded_rock_common_name">Common Name\'s include Blue Rattlesnake, Eastern Rock Rattlesnake, Green Rattlesnake, Little Green
+    Rattlesnake, Pink Rattlesnake, Rock Rattlesnake, Texas Rock Rattlesnake, and White Rattlesnake.</string>
+
+    <string name="banded_rock_description"><b>Description: </b>This small species rarely exceeds 32 in (81.3 cm) in length. It has a large,
+    rounded head, and fairly heavy body for its size, with eyes with vertical pupils. \n\nThe color pattern varies greatly, but generally
+    reflects the color of the rock in the snake\'s natural environment. Snakes found near areas of predominantly limestone tend to be a
+    light grey in color, with darker grey banding. Snakes found at higher altitudes have darker colors.</string>
+
+    <!-- ////////////////// Rock Rattlesnake ////////////////////// -->
+    <string name="rock_rattlesnake_distribution"><b>Rock Rattlesnake are found in </b>SouthWestern USA and the Mexican state of Chihuahua. \n\n
+    The Snake is predominately found in Madrean Evergreen Woodland, and Petran Montane Conifer Forest.</string>
+
+    <string name="rock_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus lepidus</string>
+
+    <string name="rock_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="rock_rattlesnake_common_name">Rock Rattlesnake is also known as White Rattlesnake.</string>
+
+    <!-- ///////////////// Mojave Rattlesnake ///////////////////// -->
+    <string name="mojave_snake_distribution"><b>Mojave Rattlesnake are found in </b>Southwestern USA and Mexico. \n\nThe Snake prefers the High Desert
+    or Lower Mountain Slopes. The Snake is often found in Scrub Bush, Lowland areas, Cacti, Joshua Tree Forests, and Grassy Plains</string>
+
+    <string name="mojave_snake_scientific_name"><b>Scientific Name: </b>Crotalus scutulatus</string>
+
+    <string name="mojave_snake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife.</string>
+
+    <string name="mojave_snake_common_name">Mojave Rattlesnake is also know as Mojave Green.</string>
+
+    <string name="mojave_snake_description"><b>Description: </b>This species grows to an average of less than 100 cm (3.3 ft) in length, with a
+    maximum of 137.3 cm (4.50 ft). \n\nThe color varies from shades of brown to pale green depending on the surroundings. The green hue found
+    among Mojave rattlesnakes has led to them being known as "Mojave greens" in some areas. </string>
+
+    <!-- ///////////////// Malayan Pit Viper ////////////////////// -->
+    <string name="malayan_viper_distribution"><b>Malayan Pit Viper are found in </b>West Malaysia, Thailand, Nepal, Cambodia, Laos, Vietnam,
+    and in the Indonesian Island of Java. \n\nThe Snake is usually found in Coastal Forests, Bamboo Thickets, Farmlands, Orchards, and in Plantations</string>
+
+    <string name="malayan_viper_scientific_name"><b>Scientific Name: </b>Calloselasma rhodostoma</string>
+
+    <string name="malayan_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife.</string>
+
+    <string name="malayan_viper_common_name">Common Name\'s include Malayan Ground Pit Viper, Malayan Ground Snake, and Malayan Moccasin.</string>
+
+    <string name="malayan_viper_description"><b>Description: </b>Attains an average total length of 76 cm (30 in), with females being slightly
+    longer than males. Occasionally, they may grow as long as 91 cm (36 in). \n\nDorsally it is reddish, grayish, or pale brown, with two
+    series of large, dark brown, black-edged triangular blotches, which are alternating or opposite. There is also a thin dark brown vertebral
+    stripe, which may be interrupted or indistinct in some specimens. \n\nThe upper labials are pink or yellowish, and powdered with brown.
+    There is a broad, dark brown, black-edged diagonal stripe from the eye to the corner of the mouth, with a narrower light-colored stripe
+    above it. Ventrally it is yellowish, uniform or powdered or spotted with grayish brown.</string>
+
+    <!-- ///////////////// Sharp Nosed Pit Viper ////////////////// -->
+    <string name="sharp_nosed_viper_distribution"><b>Sharp Nosed Pit Viper are native to </b>Southern China, Taiwan, Laos, and Northern Vietnam
+    \n\nThe Snake prefers to inhabits High, Forested Mountains up to 1,350 meters (4,430ft) but has also been found in Low Coastal Regions.</string>
+
+    <string name="sharp_nosed_viper_scientific_name"><b>Scientific Name: </b>Deinagkistrodon acutus</string>
+
+    <string name="sharp_nosed_viper_conservation_status"><b>Chinese Government\'s Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="sharp_nosed_viper_common_name">Common Name\'s include Sharp Nosed Viper, Snorkel Viper, Hundred Pacer, Chinese Moccasin,
+    Chinese Copperhead, Five-pacer, Hundred-paced Snake, Long-nosed Pit Viper, and Hundred-pace Pit Viper.</string>
+
+    <string name="sharp_nosed_viper_description"><b>Description: </b>Back is light brown or greyish brown, with a series of dark brown lateral triangles
+    on each side. The two pointed tops of the two opposite triangles meet each other at the mid-line, forming a series of about twenty light
+    brown, squarish blotches on the back. \n\nA row of large black spots extends along each side near the belly. The top and upper sides of
+    the head are uniformly black, with a black streak from the eye to the angle of the mouth; yellowish below, spotted with dark brown.
+    The young are much lighter than the adults with essentially the same pattern. The head is large, triangular, with an upturned snout. \n\n
+    The body is very stout. The tail is short, ending in a compressed, pointed slightly curved cornified scale. The top of the head is covered
+    with nine large shields. This stout snake, usually between 0.8 and 1.0 metre (2.6 and 3.3 ft) long, reaches a maximum length of
+    1.57 metres (5.2 ft) in males and 1.41 metres (4.6 ft) in females.</string>
+
+    <!-- ///////////////// Mexican Rattlesnake //////////////////// -->
+
+    <string name="mexican_rattlesnake_distribution"><b>The Snake is native to the Western Coast of Mexico</b>\n\nThe Snake is found in the region
+    of Colima.</string>
+
+    <string name="mexican_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus basiliscus</string>
+
+    <string name="mexican_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="mexican_rattlesnake_common_name">Common Name\'s include Mexican West Coast Rattlesnake, Mexican Green Rattler</string>
+
+    <string name="mexican_rattlesnake_description"><b>Description: </b>This is one of the largest rattlesnake species. Specimens exceeding
+    150 cm (4.9 ft) are not uncommon, while the maximum size reported is 204.5 cm (6.71 ft). The body is moderately stout and rather
+    rectangular in cross section. \n\nThe color pattern consists of brown or grayish ground color overlaid with 26-41 dark, rhombus-shaped
+    (diamond) blotches with light edges. The head is a uniform grayish-brown except for its lighter labial scales and dark postorbital bar.
+    \n\nNo distinct pattern is found on the crown or neck areas. The tail may be gray, with darker bands, or almost uniform in color without
+    any distinct markings. The belly is white or cream-colored. \n\nThe young are mostly red, but adults eventually become an olive green.
+    Within its range, this is the only rattlesnake with diamond-shaped dorsal markings.</string>
+
+    <!-- ///////////////// Rough-scaled Bush Viper ////////////////////// -->
+
+    <string name="rough_scaled_bush_viper_distribution"><b>The Snake is endemic to Central Africa.</b>The Snake is found in Democratic Republic
+    of Congo, Uganda, and in Kenya. \n\nThe Snake inhabits rainforests that offer plenty of flowering bushes and in dense Jungles. It\'s very
+    rare to find this Snake since they live in regions that are considerably distant from Human Settlements.</string>
+
+    <string name="rough_scaled_viper_scientific_name"><b>Scientific Name: </b>Atheris hispida</string>
+
+    <string name="rough_scaled_viper_conservation_status"><b>UN Conservation Status: </b>Data Deficient</string>
+
+    <string name="rough_scaled_viper_common_name">Common Name\'s include Spiny Bush Viper, Rough-scaled Tree Viper, African Hairy Bush Viper,
+    and Hairy Viper.</string>
+
+    <string name="rough_scaled_description"><b>Description: </b>The males of this species grow to maximum total length of 73 cm (29 in): body 58 cm (23 in),
+    tail 15 cm (5.9 in). Females grow to a maximum total length of 58 cm (23 in). The males are surprisingly long and slender compared to
+    the females. \n\nThe head has a short snout, more so in males than in females. The body is covered with elongated, heavily keeled dorsal
+    scales that give this animal a unique \'shaggy\' idea to its skin, almost bristly appearance.</string>
+
+    <!-- ///////////////// Western Diamondback Rattlesnake ////////////// -->
+
+    <string name="western_diamondback_distribution"><b>The Snake is Native to the Southwestern United States of America and Mexico.</b>\n\nThe
+    Snake inhabits Flat Coastal Plains, Hillsides, Steep Rocky Canyons, Desert, Mesquite Grasslands, Sandy Creosote, and Pine Oak Forests.</string>
+
+    <string name="western_diamondback_scientific_name"><b>Scientific Name: </b>Crotalus atrox</string>
+
+    <string name="western_diamondback_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife.</string>
+
+    <string name="western_diamondback_common_name">Common Name\'s include Adobe Snake, Arizona Diamond Rattlesnake, Coon Tail, Desert
+    Diamond-back, Desert Diamond Rattlesnake, Fierce Rattlesnake, Spitting Rattlesnake, Texan Rattlesnake, Texas Diamondback, and Texas Rattler.</string>
+
+    <string name="western_diamondback_description"><b>Description: </b>Adults commonly grow to 120 cm (4 ft) in length. Rattlesnakes of this
+    species considered medium-sized weighed 1.8 to 2.7 kg (4 to 6 lb), while very large specimens can reportedly weigh up to 6.7 kg (15 lb).
+    \n\nThe color pattern generally consists of a dusty-looking gray-brown ground color, but it may also be pinkish-brown, brick red, yellowish,
+    pinkish, or chalky white. This ground color is overlaid dorsally with a series of 24–25 dorsal body blotches that are dark gray-brown to
+    brown in color. The first of these may be a pair of short stripes that extend backwards to eventually merge. Some of the first few blotches may
+    be somewhat rectangular, but then become more hexagonal and eventually take on a distinctive diamond shape hence the name "Diamondback rattlesnake".</string>
+
+    <!-- ///////////////// Eastern Diamondback Rattlesnake ////////////// -->
+
+    <string name="eastern_diamondback_distribution"><b>The Snake is Native to Southeastern United States of America </b>including North
+    Carolina, Florida, Alabama, Mississippi, and Louisiana. \n\nThe Snake inhabits Dry Pine Forests, Palmetto Flatwoods, Sandhills, Coastal
+    Maritime Hammocks, Grass-sedge Marshes, Swamp Forests, Cypress Swamps, Mesic Hammocks, Sandy Mixed Woodlands, Xeric Hammocks, and Salt
+    Marshes.</string>
+
+    <string name="eastern_diamondback_scientific_name"><b>Scientific Name: </b>Crotalus adamanteus</string>
+
+    <string name="eastern_diamondback_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="eastern_diamondback_common_name">Common Name\'s include Eastern Diamondback, Diamond Rattlesnake, Diamond-back Rattlesnake,
+    Common Rattlesnake, Diamond-patch Rattler, Florida Diamondback, Florida Rattlesnake, Lozenge-spotted Rattlesnake, Rattler,
+    Southern Woodland Rattler, Water Rattle, and Water Rattlesnake.</string>
+
+    <string name="eastern_diamondback_description"><b>Description: </b>This is the largest rattlesnake species and is the heaviest known type of
+    venomous snake. Specimens are rarely found under 1 foot in length. Lengths of 3.5 to 5.5 ft (1.1 to 1.7 m), and 2.75 to 6 ft (0.8 to 1.8 m)
+    are given. \n\nThe color pattern consists of a brownish, brownish-yellow, brownish-gray or olive ground color, overlaid with a series of 24–35
+    dark brown to black diamonds with slightly lighter centers. Each of these diamond-shaped blotches is outlined with a row of cream or yellowish
+    scales. Posteriorly, the diamond shapes become more like crossbands and are followed by 5–10 bands around the tail. \n\nThe belly is a yellowish
+    or cream-colored, with diffused, dark mottling along the sides. The head has a dark postocular stripe that extends from behind the eye backwards
+    and downwards to the lip; the back of the stripe touches the angle of the mouth. Anteriorly and posteriorly, the postocular stripe is bordered
+    by distinct white or yellow stripes.</string>
+
+    <!-- ///////////////// Grand Canyon Rattlesnake ///////////////////// -->
+
+    <string name="canyon_rattlesnake_distribution"><b>The Grand Canyon Rattlesnake is Native to Northwestern and North-central Arizona.</b>
+    \n\nThe Snake inhabits Grasslands, Great Basin Desert Scrubland, Rolling Hills, Bajadas, and in Pine Forests.</string>
+
+    <string name="canyon_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus oreganus abyssus</string>
+
+    <string name="canyon_rattlesnake_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="canyon_rattlesnake_common_name">Grand Canyon Rattlesnake is also known as Canyon Bleached Rattlesnake.</string>
+
+    <string name="canyon_rattlesnake_description"><b>Description: </b>This is a medium to large rattlesnake. Adults measure 16-54 inches
+    (41–137 cm) in total length. \n\nDorsally, they have dark blotches on a variety of base colors ranging from reddish, pink, yellow/green,
+    light tan, to gray. The blotches usually become crossbands near the tail. The young usually have more prominent blotches and facial
+    markings than the adults. Some adults have no body markings.</string>
+
+    <!-- ///////////////// Western Rattlesnake ////////////////////////// -->
+
+    <string name="western_rattlesnake_distribution"><b>The Snake is found in Western United States of America, parts of British Colombia,
+    and in Northwestern Mexico.</b>\n\nThe Snake inhabits Shrubby Coastal Plains, Timberline, Open Mountain Forests, and in Canyons.</string>
+
+    <string name="western_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus oreganus</string>
+
+    <string name="western_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="western_rattlesnake_common_name">Common Name\'s include Northern Pacific Rattlesnake, Pacific Rattlesnake, Black Rattlesnake,
+    Arizona Diamond Rattlesnake, California Rattlesnake, Confluent Rattlesnake, Great Basin Rattlesnake, Hallowells Rattlesnake, Missouri
+    Rattlesnake, Oregon Rattlesnake, Pacific Rattler, and Western Rattler.</string>
+
+    <string name="western_rattlesnake_description"><b>Description: </b>The size of this species varies greatly, with some populations being
+    stunted and others growing very large. Mainland specimens often reach 100 cm (39 in) in length. Juveniles usually have more or less
+    distinct patterns, but these fade as the animals mature. The color of the iris often matches the ground color, which may be bronze, gold,
+    or different shades of tan, pink, or gray. \n\nThe color pattern has a dark-brown, dark-gray, olive-brown, or sometimes black or pale
+    yellowish ground color overlaid dorsally with a series of large, dark blotches with uneven white edges.</string>
+
+    <!-- ///////////////// Red Diamond Rattlesnake ////////////////////// -->
+
+    <string name="red_diamond_rattlesnake_distribution"><b>The Snake is native to Southwestern California in United States and in Baja California in Mexico.</b>
+    \n\nThe Snake inhabits the Cooler Coastal Zone, Mountains, Foothills, Cactus Patches, boulders, and in the Desert.</string>
+
+    <string name="red_diamond_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus ruber</string>
+
+    <string name="red_diamond_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="red_diamond_common_name">Common Name\'s include Red Rattlesnake, Red Diamond Snake, Red Diamond-backed Rattlesnake,
+    Red Rattler, Western Diamond Rattlesnake, Cedros Island Diamond Rattlesnake, and Cedros Island Rattlesnake</string>
+
+    <string name="red_diamond_description"><b>Description: </b>This moderately large species commonly exceeds 100 cm (39 in) on the
+    mainland. Large males may exceed 140 cm (55 in), although specimens of over 150 cm (59 in) are quite rare. \n\nThis snake is very similar
+    to "Western Diamondback Rattlesnake", but it is distinguished by its reddish color.</string>
+
+    <!-- ///////////////// Boomslang //////////////////////////////////// -->
+
+    <string name="boomslang_distribution"><b>Boomslang Snake is Native to Sub-Saharan Africa.</b>\n\nThe Snake inhabits Wooded Grasslands,
+    Arid Savannas, Karoo Scrubs, and Lowland Forests.</string>
+
+    <string name="boomslang_scientific_name"><b>Scientific Name: </b>Dispholidus typus</string>
+
+    <string name="boomslang_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="boomslang_description"><b>Description: </b>The average adult boomslang is 100–160 cm (3–5 feet) in total length, but some
+    exceed 183 cm (6 feet). The eyes are exceptionally large, and the head has a characteristic egg-like shape. Coloration is very variable.
+    Males are light green with black or blue scale edges, but adult females may be brown. \n\nIn this species, the head is distinct from the neck.
+    The pupils of the very large eyes are round. Boomslangs have excellent eyesight and often move their heads from side to side to get a
+    better view of objects directly in front of them.</string>
+
+    <!-- ///////////////// Timber Rattlesnake /////////////////////////// -->
+
+    <string name="timber_rattlesnake_distribution"><b>Timber Rattlesnake is Native to the United States of America </b>and found in Minnesota,
+    Massachusetts, Connecticut, Illinois, New York, Indiana, New Jersey, Vermont, New Hampshire, Texas, Virginia, Pennsylvania, and Florida. \n\nThe Snake inhabits Deciduous Forests,
+    Open Rocky Ledges, and in Woodlands.</string>
+
+    <string name="timber_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus horridus</string>
+
+    <string name="timber_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Endangered Wildlife</string>
+
+    <string name="timber_rattlesnake_common_name">Common Name\'s include Canebrake Rattlesnake and Banded Rattlesnake</string>
+
+    <string name="timber_rattlesnake_description"><b>Description: </b>Adults usually grow to total length of 91–152 cm (36–60 in). \n\n
+    Dorsally, they have a pattern of dark brown or black crossbands on a yellowish brown or grayish background. The crossbands have irregular
+    zig-zag edges, and may be V-shaped or M-shaped. Often a rust-colored vertebral stripe is present. Ventrally they are yellowish, uniform
+    or marked with black. Melanism is common, and some individuals are very dark, almost solid black.</string>
+
+    <!-- ///////////////// Prairie Rattlesnake ////////////////////////// -->
+
+    <string name="prairie_rattlesnake_distribution"><b>Prairie Rattlesnake is native to Western Unites States, Southwestern Canada, and
+    Northern Mexico.</b> The Snake can be found in the majority of the Great Plains in North America including Oregon, Idaho, Washington,
+    Montana, North Dakota, South Dakota, Colorado, Wyoming, Nebraska, Oklahoma, Kansas, Texas, Arizona, New Mexico, Alberta, and Saskatchewan
+    (in Canada), Coahuila, and Chihuahua (in Mexico). \n\nThe Snake is usually found in Prairies, Wooded Mountains, Arid Basins, and in Rocky Terrains with abundant prey base.</string>
+
+    <string name="prairie_rattlesnake_scientific_name"><b>Scientific Name: </b>Crotalus viridis</string>
+
+    <string name="prairie_rattlesnake_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="prairie_rattlesnake_common_name">Common Name\'s include Great Plains Rattlesnake and Western Rattlesnake</string>
+
+    <string name="prairie_rattlesnake_description"><b>Description: </b>This species commonly grows to more than 100 cm (3.3 ft) in length.
+    \n\nIdentification characteristics will vary depending on which subspecies is encountered. Generally, western rattlesnakes are usually
+    lightly colored in hues of brown. Patches of dark brown are often distributed in a dorsal pattern. A color band may be seen at the back
+    of the eye. \n\nThe western rattlesnake group carries the distinctive triangle-shaped head and pit sensory organs on either side of the
+    head. A key characteristic that can help differentiate a western rattlesnake from other rattlesnakes is the presence of two internasals
+    contacting the rostral.</string>
+
+    <!-- ///////////////// Massasauga /////////////////////////////////// -->
+
+    <string name="massasauga_distribution"><b>The Massasauga is Native to USA and Canada.</b>The Snake can be found in Ontario, New York,
+    Indiana, Illinois, Minnesota, Iowa, Ohio, Missouri, Wisconsin, and in Pennsylvania. \n\nThe Snake inhabits Prairies, Swamps, Marshes,
+    Fens, Wet Meadows, Floodplains, Dry Woodlands, Grassy Wetland, Scrub Plains, Rocky Hillsides, Oak-grass, and in Desert Grassland.</string>
+
+    <string name="massasauga_scientific_name"><b>Scientific Name: </b>Sistrurus catenatus</string>
+
+    <string name="massasauga_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="massasauga_common_name">Common Name\'s include Massasauga Rattlesnake, Black Rattler, Black Massasauga, Black Snapper,
+    Gray Rattlesnake (Iowa), Little Gray Rattlesnake (Canada), Muck Rattler, Spotted Rattler, Swamp Rattler, Eastern Massasauga Great Adder,
+    Kirtlands Rattlesnake, Michigan Point Rattler (Michigan), Snapper, Swamp Massasauga, Triple-spotted Rattlesnake, Swamp Rattlesnake, and
+    víbora de cascabel (Mexico)</string>
+
+    <string name="massasauga_description"><b>Description: </b>The adults are not large, ranging from 60 to 75 cm (24 to 30 in) in length.
+    \n\nThe color pattern consists of a grey or tan ground color with a row of large rounded brown/black blotches or spots down the center
+    of the back and three smaller rows of alternating spots down each side. \n\nSolid black melanistic examples are also known, as well as
+    cases where the back blotches join with those on the sides. Young massasauga are well-patterned but paler than the adults. It has
+    heat-sensing pits on each side of its smallish head, the scales are keeled and the anal scale is single.</string>
+
+    <!-- ///////////////// Mexican Cantil /////////////////////////////// -->
+
+    <string name="mexican_cantil_distribution"><b>Mexican Cantil is Native to Mexico, Guatemala, El Salvador, Nicaragua, Honduras, and
+    Costa Rica.</b>\n\nThe Snake inhabits Savanna, Grasslands, Seasonally Dry Forests, Agricultural Fields, and in Tropical Deciduous Forests.</string>
+
+    <string name="mexican_cantil_scientific_name"><b>Scientific Name: </b>Agkistrodon bilineatus</string>
+
+    <string name="mexican_cantil_conservation_status"><b>UN Conservation Status: </b>Near Threatened Wildlife</string>
+
+    <string name="mexican_cantil_common_name">Common Name\'s include Mexican Ground Pit Viper, Black Moccasin, Cantil Viper, Mexican
+    Moccasin, Cantil, Mexican Yellow-lipped Viper, and Neotropical Moccasin.</string>
+
+    <string name="mexican_cantil_description"><b>Description: </b>These are heavy-bodied snakes, and share the same general body structure
+    with cottonmouths. They average around 60 cm (24 in) in length and have a broad, triangular-shaped head with small eyes that have vertical
+    pupils. \n\nColoration can vary, but most are brown or black, with darker brown or black banding, sometimes with white or cream-colored
+    accents. </string>
+
+    <!-- ///////////////// Broad-banded Copperhead ////////////////////// -->
+
+    <string name="broad_copperhead_distribution"><b>Broad-banded Copperhead is Native to USA and can be found in Kansas, Texas, and Oklahoma.</b>
+    \n\nThe Snake inhabits Deciduous Forests, Mixed Woodlands, Rocky Outcroppings, and in Swamps.</string>
+
+    <string name="broad_copperhead_scientific_name"><b>Scientific Name: </b>Agkistrodon contortrix laticinctus</string>
+
+    <string name="broad_copperhead_conservation_status">Although the Snake has not been evaluated by any agency, it is in no danger of being extinct in the wild.</string>
+
+    <string name="broad_copperhead_common_name">Common Name\'s include Texas Copperhead, Copperhead Moccasin, Copperhead Snake, Dry-land
+    Moccasin, Highland Moccasin, Rattlesnake Pilot, Red Eye, and Thunder Snake.</string>
+
+    <string name="broad_copperhead_description"><b>Description: </b>This form is typically a light tan in color, with darker brown,
+    wide crossbands - which gives it its common name. The actual color varies, by locality, from a red-brown, to a gray-brown. \n\n
+    In the western reaches of its range, the species can be difficult to distinguish from the Trans-Pecos copperhead.
+    The only notable physical difference between the subspecies is the Trans-Pecos copperhead tends to have an elaborately patterned underside,
+    often being an irregular, white and black pattern.</string>
+
+    <!-- ///////////////// Northern Copperhead ////////////////////////// -->
+
+    <string name="northern_copperhead_distribution"><b>Northern Copperhead is Native to United States of America </b>and can be found in
+    Texas, Virginia, Indiana, Illinois, Virginia, Georgia, Alabama, Mississippi, Massachusetts, Appalachian Mountain Ranges, New York,
+    and in Pennsylvania. \n\nThe Snake prefers Semi-aquatic habitats, Wetlands, Rocky Forested Hills, Mountains, Desert Oases, and Canyons.</string>
+
+    <string name="northern_copperhead_scientific_name"><b>Scientific Name: </b>Agkistrodon contortrix mokasen</string>
+
+    <string name="northern_copperhead_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="northern_copperhead_common_name">Common Name\'s include Resident Copperhead, Highland Moccasin, Beech-leaf Snake, Chunk
+    Head, Copper, Copper Belly, Copperhead Viper, Copperhead Moccasin, Deaf Adder, Deaf Snake, Dumb Rattlesnake, Copper Viper, Hazel Head,
+    Harlequin Snake, Pilot, Red Adder, Poplar leaf, Thunder Snake, Red Viper, Red Eye, White Oak Snake, Adder, and Red Snake.</string>
+
+    <string name="northern_copperhead_description"><b>Description: </b>The northern copperhead grows to an average length of
+    61-91 cm (24-36 in), with a maximum of 135 cm (53 in). \n\nThe color pattern consists of an hourglass pattern that runs the length of
+    the body. From above, a series of dark chestnut crossbands look narrow in the center and wider on the sides. Between the crossbands,
+    small dark spots are often present. There are dark rounded spots at the sides of the belly. The head is a copper-red color. \n\nJuvenile
+    specimens are lighter in color, have a yellow tail tip, and a narrow dark line that runs through the eye that divides the darker head
+    from the lighter colored labial scales.</string>
+
+    <!-- ///////////////// Osage Copperhead ///////////////////////////// -->
+
+    <string name="osage_distribution"><b>Osage Copperhead is Native to the Central Region of United States of America </b>and can be found in
+    Missouri, Kansas, and Nebraska. \n\nThe Snake can be found on Rocky Terrains, Wetlands, and in Forested Hillsides.</string>
+
+    <string name="osage_scientific_name"><b>Scientific Name: </b>Agkistrodon contortrix phaeogaster</string>
+
+    <string name="osage_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="osage_common_name">Osage Copperhead is also known as Central Copperhead.</string>
+
+    <string name="osage_description"><b>Description: </b>The color pattern is similar to that of Northern Copperhead, except that the dark bands
+    are in sharper contrast to the lighter ground color, and that there are no smaller dark spots between them.</string>
+
+    <!-- ///////////////// Trans-Pecos Copperhead /////////////////////// -->
+
+    <string name="trans_pecos_distribution"><b>Trans-Pecos Copperhead is Native to the Trans-Pecos Region of the United States of America </b>
+    and can be found in Texas and Northern Mexico. \n\nThe Snake inhabits Rocky Terrains, Mountains, and Canyons.</string>
+
+    <string name="trans_pecos_scientific_name"><b>Scientific Name: </b>Agkistrodon contortrix pictigaster</string>
+
+    <string name="trans_pecos_conservation_status"><b>UN Conservation Status: </b>Endangered Wildlife</string>
+
+    <string name="trans_pecos_common_name">Trans-Pecos Copperhead is also known as Western Copperhead</string>
+
+    <string name="trans_pecos_description"><b>Description: </b>Trans-Pecos Copperhead is light tan in color, with darker brown, wide crossbands.
+    Their actual color varies by locality, varying from a red-brown, to a gray-brown. The species can be difficult to distinguish from the
+    broad-banded copperhead. \n\nThey grow to approximately 20-36 inches (50–90 cm)in length. As juveniles, all species of Cottonmouths, Copperheads, and Cantils have
+    a bright green-yellow color to their tail tip believed to be used as a lure to attract prey items to approach within striking range.
+    The color fades to a grey or brown at about a year of age.</string>
+
+    <!-- ///////////////// Florida Cottonmouth ////////////////////////// -->
+
+    <string name="florida_cottonmouth_distribution"><b>Florida Cottonmouth is Native to the United States of America </b>and can be found in
+    Florida and Southern Georgia. \n\nThe Snake inhabits Offshore Islands, Okefenokee Swamp, Aquatic Environments, Pine Woods, and in Everglades.</string>
+
+    <string name="florida_cottonmouth_scientific_name"><b>Scientific Name: </b>Agkistrodon piscivorus conanti</string>
+
+    <string name="florida_cottonmouth_conservation_status">Least Concern Wildlife</string>
+
+    <string name="florida_cottonmouth_common_name">Common Name\'s include Water Moccasin, Swamp Moccasin, Aquatic Copperhead, Water Pit
+    Moccasin, Cotton-mouthed Snake, Swamp Lion, North American Water Viper, Water Rattlesnake, Trap Jaw, Lake Moccasin, Water Mamba, Pond
+    Moccasin, Short Tailed Moccasin, Small Tailed Rattler, Water Pilot, and River Pit Moccasin.</string>
+
+    <string name="florida_cottonmouth_description"><b>Description: </b>Adults grow up to 1,892 mm (74.5 inches) in total length (including tail).
+    \n\nThe color pattern is similar to that of Eastern Cottonmouth, apart from head markings that are plainly visible even in older, darker
+    specimens: dark brown postocular stripes that are bordered above and below by narrow light lines. A pair of dark stripes are also visible
+    at the front of the lower jaw, as well as a pair of dark vertical stripes at the tip of the snout. Mature specimens often lack any dorsal pattern.</string>
+
+    <!-- ///////////////// Western Cottonmouth ////////////////////////// -->
+
+    <string name="western_cottonmouth_distribution"><b>Western Cottonmouth is Native to the South Central United States of America </b>and can
+    be found in Texas, Alabama, Indiana, Illinois, Oklahoma, Missouri, and Nebraska. \n\nThe Snake prefers Aquatic Habitats and can be found
+    in Marshes, Swamps, Lakes, Streams, and Ponds.</string>
+
+    <string name="western_cottonmouth_scientific_name"><b>Scientific Name: </b>Agkistrodon piscivorus leucostoma</string>
+
+    <string name="western_cottonmouth_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="western_cottonmouth_common_name">Common Name\'s include Water Moccasin, Congo Snake, Gapper, Viper, Western Cottonmouth
+    Moccasin, Blunt-tail Moccasin, and Cotton-mouthed Snake.</string>
+
+    <string name="western_cottonmouth_description"><b>Description: </b>This the smallest of all three Cottonmouths, both in maximum length
+    and especially in average length. \n\nColoration is similar to the two eastern subspecies, except that most specimens tend to become
+    darker at a younger age. Also, the light line that borders the dark cheek strip which is clearly defined in Florida Cottonmouth and less so in
+    Eastern Cottonmouth is usually not present in this subspecies. A dorsal color pattern consists of 10 to 15 dark crossbands can be seen in
+    small specimens, as well as in some larger ones.</string>
+
+    <!-- ///////////////// Eastern Cottonmouth ////////////////////////// -->
+
+    <string name="eastern_cottonmouth_distribution"><b>Eastern Cottonmouth is Native to the Southeastern United States of America </b>and can
+    be found in Georgia, Virginia, North Carolina, Mississippi, Alabama, Florida, and South Carolina. \n\nThe Snake primarily inhabits
+    Aquatic Environments and is found in Lakes, Rivers, Ponds, Swamps, and Marshes.</string>
+
+    <string name="eastern_cottonmouth_scientific_name"><b>Scientific Name: </b>Agkistrodon piscivorus piscivorus</string>
+
+    <string name="eastern_cottonmouth_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="eastern_cottonmouth_common_name">Common Name\'s include Cottonmouth Moccasin, Moccasin, and Water Moccasin</string>
+
+    <string name="eastern_cottonmouth_description"><b>Description: </b>Eastern Cottonmouth reaches 20 to 48 inches (51 to 121 cm) in length
+    on average but has reached 74.5 inches (189 cm). \n\n The colour is mainly dark, and the body heavy. However younger specimens have red
+    to brown crossbands, with a lighter brown background. The crossbands are spotted and speckled, and the tail suphur coloured. The
+    patterning darkens with time with many older adults being completely black, as shown in the upper illustration. \n\n
+    The scales are keeled and dark broad stripes on the face disguise the eyes, which cannot be seen when viewed from above, and have a
+    vertical (cat\'s-eye) slit like pupil. The eye is separated from the nostril by a deep facial pit.</string>
+
+    <!-- ///////////////// Jumping Pit Viper //////////////////////////// -->
+
+    <string name="central_jumping_viper_distribution"><b>The Snake is Native to Central America </b>and can be found in Costa Rica, Panama, Mexico,
+    and Guatemala. \n\nThe Snake inhabits Rain Forests, Mountains, Wooded Hillsides, and in Plantations.</string>
+
+    <string name="central_jumping_viper_scientific_name"><b>Scientific Name: </b>Atropoides nummifer</string>
+
+    <string name="central_jumping_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="central_jumping_viper_common_name">Common Name\'s include Mexican Jumping Pit Viper, Jumping Viper, Central American
+    Jumping Pit Viper, Tuxtlan Jumping Pit Viper, Picado\'s Jumping Pit Viper and Guatemalan Jumping Pit Viper.</string>
+
+    <string name="jumping_viper_description"><b>Description: </b>Jumping Pit Vipers are extremely thick-bodied. The head is large, with small eyes
+    and a broadly rounded snout. \n\nThe color pattern usually consists of a gray-brown or reddish brown ground color (sometimes yellow,
+    cream, purplish brown or black), overlaid with a series of lateral and dorsal blotches. The shape of these blotches is subject to some
+    variation, but is sometimes still helpful for identification.</string>
+
+    <!-- ///////////////// Yellow-Blotched Palm-Pitviper //////////////// -->
+
+    <string name="blotched_palm_viper_distribution"><b>The Yellow-Blotched Palm-Pitviper is found in Mexico and Guatemala.</b>\n\nThe Snake
+    Primarily inhabits the Lower Montane Cloud Forest at 1200 to 2300m altitude and Subtropical Wet Forests.</string>
+
+    <string name="blotched_palm_viper_scientific_name"><b>Scientific Name: </b>Bothriechis aurifer</string>
+
+    <string name="blotched_palm_viper_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="blotched_palm_viper_common_name">The Yellow-Blotched Palm-Pitviper is also known as Guatemalan Palm Viper.</string>
+
+    <string name="blotched_palm_viper_description"><b>Description: </b>Adults generally grow to less than 70 centimetres (28 in) in length,
+    but sometimes to over 1 metre (3 ft 3 in). The body is relatively slender with a prehensile tail. \n\nThe color pattern consists of a
+    green ground color overlaid dorsally with a series of yellow blotches that are bordered in black. Between the botches, an irregular,
+    often broken, dorsal stripe can be seen. The yellowish green belly is often lighter than the dorsum. \n\nOn the head, a dark postocular
+    stripe is present. The iris is usually yellowish-green, sometimes bronze, with black specks or reticulations. Over 90% of all specimens
+    have the usual dark dorsal pattern, but a few are uniform green and have no postocular stripes. The juvenile coloration includes a pale
+    lime green ground color and a colorful tail tip.</string>
+
+    <!-- ///////////////// Guatemalan Palm-Pit Viper //////////////////// -->
+
+    <string name="guatemalan_palm_viper_distribution"><b>Guatemalan Palm-Pit Viper is Native to Guatemala, Mexico, and Honduras.</b>\n\nThe Snake
+    inhabits Rainforests and Cloud Forests between 500m (1,600ft) and 2,000m (6,600 ft)</string>
+
+    <string name="guatemalan_palm_viper_scientific_name"><b>Scientific Name: </b>Bothriechis bicolor</string>
+
+    <string name="guatemalan_palm_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="guatemalan_palm_viper_common_name">Guatemalan Palm-Pit Viper is also known as Guatemalan Tree Viper</string>
+
+    <string name="guatemalan_palm_viper_description"><b>Description: </b>Adults are usually 60–70 centimetres (24–28 in) in length, but may reach
+    100 centimetres (39 in), and the body is relatively slender. \n\nThe color pattern consists of a green or bluish green ground color. Usually
+    this is without any pattern, but sometimes specimens from Mexico have black flecks and dots and/or blue blotches. The dorsum of the head
+    is a uniform green without any postocular stripe. \n\nThe interstitial skin is often blue, which can also be true for the borders of some
+    scales. The belly has a somewhat lighter color, usually a uniform yellowish-green.</string>
+
+    <!-- ///////////////// Guifarro's Palm-pitviper ///////////////////// -->
+
+    <string name="guifarros_palm_viper_distribution"><b>Guifarros Palm Pit Viper is Native to the Northern Honduras </b>and is found in Texiguat Wildlife Refuge.
+    \n\nThe Snake inhabits Rainforest and Cloud Forests at altitude above 1000m.</string>
+
+    <string name="guifarros_palm_viper_scientific_name"><b>Scientific Name: </b>Bothriechis guifarroi</string>
+
+    <string name="guifarros_palm_viper_conservation_status"><b>Conservation Status: </b>Critically Endangered Wildlife</string>
+
+    <string name="guifarros_palm_viper_description"><b>Description: </b>Adult Guifarro\'s Palm-pitviper are brightly colored green, with a
+    yellowish hue towards the ventral side. \n\nThe juveniles have a green phase and a brown phase, before acquiring the adult coloration.
+    The holotype (adult) measured 734 mm total length, with a tail length of 136 mm.</string>
+
+    <!-- ///////////////// Side-Striped Palm-Pit Viper ////////////////// -->
+
+    <string name="side_striped_palm_viper_distribution"><b>Side-striped Palm-pit Viper is Native to the Mountains of Costa Rica and Western
+    Panama.</b>\n\nThe Snake inhabits Lower Montane Forests, Wet Forests, and Rainforests.</string>
+
+    <string name="side_striped_palm_viper_scientific_name"><b>Scientific Name: </b>Bothriechis lateralis</string>
+
+    <string name="side_striped_palm_viper_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="side_striped_palm_viper_common_name">Common Name\'s include Side-striped Palm Viper, Green Palm Viper, and Yellow-Lined
+    Palm Viper.</string>
+
+    <string name="side_striped_palm_viper_description"><b>Description: </b>Adult specimens may exceed 100 centimetres (39 in), but are
+    usually less than 80 centimetres (31 in) in length. These are relatively slender snakes and have a prehensile tail. \n\n
+    The color pattern consists of an emerald green to bluish green ground color, overlaid with a series of yellow alternating paravertebral
+    vertical bars. Some of the scales adjacent to the yellow in this pattern may be blue or black-tipped. \n\nThe belly is a uniform
+    yellowing-green, bordered on either side by a pale yellow stripe running along the lower portion of the paraventral scales and the extreme
+    lateral part of the ventral scales. \n\nThe head is uniformly green on top and a blue or blue-gray postocular stripe may be present. If a
+    postocular stripe is present, it is weakly defined, especially in large adults. The iris is yellow. \n\nJuvenile specimens are usually brown
+    with dark brown markings on the head, bronze irises, postocular stripes, paravertebral makings that are edged with yellow, and a tail tip
+    that is yellow or chartreuse.</string>
+
+    <!-- ///////////////// Black-speckled Palm-pit Viper //////////////// -->
+
+    <string name="speckled_palm_viper_distribution"><b>Black-speckled Palm-pit Viper is Native to the Mountains of Panama and Costa Rica.</b>
+    \n\nThe Snake inhabits High Montane Forest and Lower Montane Wet Forest and Cloud Forests.</string>
+
+    <string name="speckled_palm_viper_scientific_name"><b>Scientific Name: </b>Bothriechis nigroviridis</string>
+
+    <string name="speckled_palm_viper_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="speckled_palm_viper_common_name">Common Name\'s include Speckled Palm Viper, Yellow-spotted Palm Viper, and Black-spotted
+    Palm Viper.</string>
+
+    <string name="speckled_palm_viper_description"><b>Description: </b>Adults may exceed 80 centimetres (31 in), although most are less than
+    60 centimetres (24 in) in length. They are relatively slender and have a prehensile tail. \n\nThe color pattern usually consists of an
+    emerald green (rarely yellowish green) ground color with strong black mottling. There may also be pale green dorsal blotches that have
+    black edges. The belly is yellowish green and lightly mottled with black. \n\nThe head is heavily mottled with black on top, often with
+    black parietal stripes. There is also a clearly defined postocular stripe running back towards the angle of the jaw. The iris is heavily
+    stippled and appears almost black. The tongue is also black. Juveniles have a similar color pattern, although it is more pale and the tip
+    of the tail is black</string>
+
+    <!-- ///////////////// Mexican Palm-pit Viper /////////////////////// -->
+
+    <string name="mexican_palm_viper_distribution"><b>Mexican Palm-pit Viper is Native to Mexico</b>\n\nThe Snake Primarily inhabits Cloud
+    Forests at 1,500m (4,920ft) to 1,830m (6,000ft) altitude.</string>
+
+    <string name="mexican_palm_viper_scientific_name"><b>Scientific Name: </b>Bothriechis rowleyi</string>
+
+    <string name="mexican_palm_viper_conservation_status"><b>UN Conservation Status: </b>Vulnerable Wildlife</string>
+
+    <string name="mexican_palm_viper_common_name">Mexican Palm-pit viper is also known as Rowley\'s Palm Viper</string>
+
+    <string name="mexican_palm_viper_description"><b>Description: </b>Mexican Palm-Pit Viper is slender and green with a prehensile tail.
+    Adults grow to a total length (including tail) of at least 97.3 centimetres (38.3 in).</string>
+
+    <!-- ///////////////// Eyelash Viper //////////////////////////////// -->
+
+    <string name="eyelash_viper_distribution"><b>Eyelash Viper is Native to Mexico, Colombia, Peru, Panama, Costa Rica, Ecuador, and
+    Venezuela.</b>\n\nThe Snake primarily inhabits Rainforests and near water sources.</string>
+
+    <string name="eyelash_viper_scientific_name"><b>Scientific Name: </b>Bothriechis schlegelii</string>
+
+    <string name="eyelash_viper_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="eyelash_viper_common_name">Common Name\'s include Eyelash Palm Viper, Eyelash Pit Viper, Eyelash Mountain Viper, Eyelash
+    Lancehead, Eyelash Snake, Schlegel\'s viper, Bocaracá, Oropel, Víbora de pestañas, Serpiente Loro, Toboba Pestanas, and Víbora Bocaracá.</string>
+
+    <string name="eyelash_viper_description"><b>Description: </b>The eyelash viper is a relatively small species of pitviper, with adults
+    ranging from 55&#8211;82 cm (22&#8211;32 in) long, and females being longer and more variable in size than males, which can grow to 69 cm (27 in)
+    long. \n\nIt has a wide, triangular&#8211;shaped head, and eyes with vertical pupils. The snake has a large  hypodermic needle&#8211;like fangs in
+    the front of the upper jaw that fold back when not in use, and has heat sensitive organs, or pits, located on either side of the head
+    between the eye and nostril. \n\nIts most distinguishing feature, and origin of its common name, is the set of modified scales above the
+    eyes that look much like eyelashes. The eyelashes are thought to aid in camouflage, breaking up the snake\'s outline among the foliage
+    where it hides. \n\nEyelash Viper occurs in a wide range of colors, including red, yellow, brown, green, even pink, as well as various
+    combinations thereof. It often has black or brown speckling on the base color. No external features distinguish the two sexes.</string>
+
+    <!-- ///////////////// Merendon Palm Pit Viper ////////////////////// -->
+
+    <string name="merendon_viper_distribution"><b>Merendon Palm-pit Viper is Native to Guatemala and Honduras.</b>\n\nThe Snake inhabits the
+    Lower Montane Wet Forest and Moist Forest at 885m (2,904ft) to 1,730m (5,676ft) altitude.</string>
+
+    <string name="merendon_viper_scientific_name"><b>Scientific Name: </b>Bothriechis thalassinus</string>
+
+    <string name="merendon_viper_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="merendon_viper_common_name">Common Name\'s include Culebra Verdea and Yax Chan</string>
+
+    <string name="merendon_viper_description"><b>Description: </b>This is a medium sized pitviper with a slender body and strong prehensile tail. Adults are
+    usually 60 to 80 centimetres (24 to 31 in) long, with a maximum recorded length of 97 centimetres (38 in). It has 21 to 23 dorsal scale rows
+    at mid body. \n\nThe head and body usually have a greenish dorsal color, shading to yellow&#8211;greenish along the sides. The belly is generally
+    lighter in color: cream, yellow-green or pale green. The dorsal pattern may have irregular blotches, turquoise to black, or speckling that
+    doesn\'t reach very far down the sides. \n\nThe head has two black stripes and black speckling on top, which are less visible towards the tail.
+    Like all other pitvipers, Merendon palm-pitviper has heat sensitive organs, or loreal pits, located on either side of the head between
+    the eye and the nostril.</string>
+
+    <!-- ///////////////// Two-striped Forest-pit Viper ///////////////// -->
+
+    <string name="two_striped_distribution"><b>Two-striped Forest-pit Viper is found in the Amazon region of South America.</b>\n\nThe Snake
+    inhabits Lowland Rain Forest, Palms and Trees, Shrubbery, and in Bushes along streams.</string>
+
+    <string name="two_striped_scientific_name"><b>Scientific Name: </b>Bothriopsis bilineata</string>
+
+    <string name="two_striped_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="two_striped_common_name">Common Name\'s include Green Jararaca, Amazonian Palm Viper, and Parrot snake.</string>
+
+    <string name="two_striped_description"><b>Description: </b>Adults usually do not grow to more than 70 cm in length, although some may reach 100 cm.
+    The maximum reported size is 123 cm. The body is relatively slender, with a prehensile tail. \n\nThe colour pattern consists of a pale green
+    ground colour overlaid dorsally with either a peppering of black spots, or a series of tan or reddish brown spots that are usually paired.
+    The ventrals are bordered by a creamy yellow line running down the length of the body, while the belly itself is yellow and bordered with a
+    tinge of green. The latter part of the tail is pink and bordered with yellow. \n\nThe head is either green with a scattering of small black
+    spots, or green with isolated tan or reddish brown spots that are bordered in black. The iris is pale green, while the labials are yellow
+    green, often with black spots.</string>
+
+    <!-- ///////////////// Speckled Forest Pit Viper //////////////////// -->
+
+    <string name="speckled_forest_distribution"><b>Speckled Forest Pit Viper is Native to Equatorial Forests of South America </b>and can be
+    found in Venezuela, Brazil, Bolivia, Peru, Ecuador, Guyana, Colombia, Suriname, and French Guiana. \n\nThe Snake inhabits the Lowland
+    Rainforest, Foothills, and Tropical Forests with Low Vegetation.</string>
+
+    <string name="speckled_forest_scientific_name"><b>Scientific Name: </b>Bothriopsis taeniata</string>
+
+    <string name="speckled_forest_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="speckled_forest_description"><b>Description: </b>Adults are usually less than 100 cm (39 in) in total length, although some may
+    grow to as much as 150 cm (59 in). \n\nThe body is relatively slender with a prehensile tail. The color pattern is extremely complex, varying
+    overall from lavender gray to yellow green, while juveniles undergo considerable ontogenetic color change as they mature into adults.</string>
+
+    <!-- ///////////////// Urutu //////////////////////////////////////// -->
+
+    <string name="urutu_distribution"><b>Urutu is Native to Argentina, Brazil, Paraguay, and Uruguay.</b>\n\nThe Snake primarily inhabits
+    Tropical and Semitropical Forests, Temperate Deciduous Forests, Marshes, Low Lying Swamps, Riparian Zones, Sugarcane Plantations,
+    Grasslands, Rocky Terrains, and Open Fields.</string>
+
+    <string name="urutu_scientific_name"><b>Scientific Name: </b>Bothrops alternatus</string>
+
+    <string name="urutu_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="urutu_common_name">Common Name\'s include Wutu, Halbmondlanzenotter, and Crossed Pit Viper. It\'s called víbora de la cruz and yarará grande
+    in Argentina, In Brazil it is called boicoatiara, boicotiara (Tupi dialect), coatiara, cotiara (southern Brazil), cruzeira, cruzeiro, jararaca de agosto
+    (Rio Grande do Sul, Lagoa dos Patos region), jararaca rabo-de-porco (Rio Grande do Sul), and urutu. In Paraguay it is called mbói-cuatiá,
+    mbói-kwatiara (Gí dialect), and yarará acácusú (Guaraní dialect). In Uruguay it is referred to as crucera, víbora de la cruz and yarará.</string>
+
+    <string name="urutu_description"><b>Description: </b>Large and stout, this terrestrial species reportedly exceeds 2 m (6.6 ft) in total
+    length, although the verified maximum is 169 cm (67 in). Most specimens are 80 to 120 cm (31 to 47 in) in total length, with female
+    being significantly longer and heavier than males. \n\nThe color pattern is exceedingly variable. The ground color may be brown, tan or
+    gray, sometimes with an olive cast. The top of the head is usually chocolate brown to almost black with a range of transverse and
+    longitudinal tan to white markings.It looks like a boa constrictor. \n\nOn the body, there is a series of 22-28 dorsolateral markings
+    that are chocolate brown to black in color and boldly bordered in cream or white. Along the vertebral line, these markings may either
+    oppose or alternate. Each marking is widened and invaded from underneath by the paler ground color so that it either looks like a cross,
+    encloses a darker blotch, or divides the marking into three parts to give it the shape of a headphone. \n\nOn the tail, the pattern fuses
+    to form a zigzag pattern. In some specimens, the pattern is so concentrated that there is no difference in color between the markings and
+    the interspaces. The ventral surface includes a dark brown to black stripe that starts at the neck and runs down to the tail tip.</string>
+
+    <!-- ///////////////// Patagonian Lancehead ///////////////////////// -->
+    
+    <string name="patagonian_distribution"><b>Patagonian Lancehead is Native to Argentina.</b>\n\nThe Snake primarily inhabits Savanna,
+    Dry Regions, Steppes, Coastal Dunes, Rocky Terrains, Salt Flats, and Riverbanks.</string>
+
+    <string name="patagonian_scientific_name"><b>Scientific Name: </b>Bothrops ammodytoides</string>
+
+    <string name="patagonian_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="patagonian_common_name">Common Name\'s include Patagonian Pit Viper and Yarará ñata (in Spanish)</string>
+
+    <string name="patagonian_description"><b>Description: </b>This species has a stocky build and grows to an average total length of
+    45&#8211;75 cm (18&#8211;30 inches), but is capable reaching almost 1 m (39 inches) in total length. \n\nDorsally, it is pale brown, with
+    a series of large squarish dark brown spots or crossbars which are edged with black. On some specimens these markings alternate to form a
+    zigzag stripe. There is a dark streak behind the eye. Ventrally, it is yellowish with brown dots.</string>
+
+    <!-- ///////////////// Terciopelo /////////////////////////////////// -->
+
+    <string name="terciopelo_distribution"><b>Terciopelo is Native to Mexico, South and Central America </b>and can be found in Belize, Costa Rica,
+    Colombia, Ecuador, Guatemala, Honduras, Nicaragua, Venezuela, Trinidad, and Panama. \n\nThe Snake primarily inhabits Cloud Forest, Lower Montane
+    Wet Forests, Agricultural Fields, Tropical Rainforests, Evergreen Forests, Tropical Deciduous Forest, Thorn Forest, and in Pine Savanna near Water sources.</string>
+
+    <string name="terciopelo_scientific_name"><b>Scientific Name: </b>Bothrops asper</string>
+
+    <string name="terciopelo_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="terciopelo_common_name">Common Name\'s include Fer-de-lance, Equis (Panama and Ecuador), Taya Equis (Colombia),
+    Mapepire Balsain (Trinidad), Cuaima (Venezuela), Barba Amarilla (Guatemala and Honduras), Nauyaca (Mexico), and Yellow-jaw Tommygoff (Belize)</string>
+
+    <string name="terciopelo_description"><b>Description: </b>Terciopelo can be distinguished by their broad, flattened heads which are set apart
+    from the rest of their bodies. The head of this snake is light to dark brown or even black. Although usually absent, it may have occipital
+    blotches or streaks that range from indistinct to distinct. The underside is most often pale yellow. \n\nThis species has different patterns
+    and colors on its dorsal and ventral sides and it exhibits a postorbital stripe. The ventral side is yellow, cream, or a whitish gray,
+    with dark blotches that are more frequent closer to the posterior end. Ventrolaterally, B. asper has interchanging gray scales which are
+    more pale towards the medial line. \n\nDark triangles with pale edges can be seen laterally, which range in number from 18 to 25. Apices
+    either alternate or are reflective of each other over the middorsal line. In the interspaces, there are dark, paravertebral blotches. \n\n
+    Specimens may have a yellow zig-zag-shaped line on each side of the body. There is a great variety of colours on its dorsal side: olive,
+    gray, light brown to dark brown, tan or sometimes nearly black. To prevent water loss where they occur in drier regions, this species has
+    more scales. \n\nSpecimens of this species may weigh up to 6 kilograms (13 lb) and are often 1.2 to 1.8 meters (3.9 to 5.9 ft) in length.
+    \n\nAcross its geographic range, this species varies greatly phenotypically. As a result, great confusion between it and other related species,
+    most notably Common Lancehead, which is similar in color but usually has yellow or rust-like tones and rectangular or trapezoidal blotches.</string>
+
+    <!-- ///////////////// Common Lancehead ///////////////////////////// -->
+
+    <string name="common_lancehead_distribution"><b>Common Lancehead is Native to the Tropical Lowlands of South America east of Andes </b>
+    and can be found in Bolivia, Brazil, French Guiana, Guyana, Suriname, Panama, Peru, Venezuela, Ecuador, Colombia, and Trinidad. \n\nThe
+    Snake inhabits Wet Forests, Open Fields, Plantations, Tropical Rainforests, and Deciduous Forests.</string>
+
+    <string name="common_lancehead_scientific_name"><b>Scientific Name: </b>Bothrops atrox</string>
+
+    <string name="common_lancehead_conservation_status">While the Snake has yet to be classified by any agency, it\'s commonly found in it\'s
+    Habitat and Range.(Phelps, 1981)</string>
+
+    <string name="common_lancehead_common_name">Common Name\'s include Fer-de-lance, Barba Amarilla (in Spanish), Mapaná, Talla Equis (Colombia) ,
+    Yoperojobobo (Bolivia), Surucucu, Jararaca (Brazil), Labaria or Labarria (Guyana and Suriname), Mapanare (Venezuela), Equis (Panama and
+    Ecuador), Aroani, cascabel, Ihdóni, Jergón, Macánchi, Machacú, Marashar, Nashipkit, Jergona, and Jergón de la selva (Peru)</string>
+
+    <string name="common_lancehead_description"><b>Description: </b>A terrestrial species, adults usually grow to a total length 75&#8211;125 cm
+    (about 30&#8211;50 inches) and are moderately heavy&#8211;bodied. \n\nThe color pattern is highly variable, including a ground color that
+    may be olive, brown, tan, gray, yellow, or (rarely) rusty. The body markings are highly variable, as is the degree of contrast: in some
+    specimens the pattern is very well defined, while in others it may be virtually absent. \n\n In general, however, the body pattern consists
+    of a series of dorsolateral blotches, rectangular or trapezoidal in shape, which extend from the first scale row to the middle of the back.
+    These blotches may oppose or alternate across the midline, often fusing to form bands. \n\nThey also have pale borders, which in some cases
+    may be prominent, and may be invaded from below by tan or gray pigment, occasionally dividing them into pairs of ventrolateral spots. The
+    belly may be white, cream or yellowish gray, with an increasing amount of gray to black mottling posteriorly that may fade again under
+    the tail. \n\nThe head usually does not have any markings other than a moderately wide postocular stripe that runs from behind the eye
+    back to the angle of the mouth. The iris is gold or bronze, with varying amounts of black reticulation, while the tongue is black.</string>
+
+    <!-- ///////////////// Brazil's Lancehead /////////////////////////// -->
+
+    <string name="brazil_lancehead_distribution"><b>Brazil\'s Lancehead is Native to the Equatorial Forests of South America </b>and can be found in
+    Brazil, Bolivia, Colombia, French Guiana, Guyana, Suriname, Venezuela, Ecuador, and Peru. \n\nThe Snake inhabits Woodlands, Rainforests,
+    Moist Forests, and near Water sources.</string>
+
+    <string name="brazil_lancehead_scientific_name"><b>Scientific Name: </b>Bothrops brazili</string>
+
+    <string name="brazil_lancehead_conservation_status"><b>Conservation Status: </b>The Snake has not yet been evaluated/classified by any Agency.</string>
+
+    <string name="brazil_lancehead_description"><b>Description: </b>Stoutly built and terrestrial, adults are usually 70&#8211;90 cm (28&#8211;35 in) in
+    total length, but may exceed 140 cm (55 in). \n\nThe color pattern consists of a pinkish tan to pinkish or reddish gray ground color overlaid
+    with a series of 9-19 dark ash gray dorsolateral blotches. These may alternate or oppose across the midline of the back, sometimes looking
+    like triangular C\'s or merging to form bands. The tail is the same color as the body, but may be mostly black. \n\nThe belly is usually
+    yellow or pinkish cream with mottling that is slightly darker in color. The top of the head is also the same color as the body, but
+    usually lighter.</string>
+
+    <!-- ///////////////// Golden Lancehead ///////////////////////////// -->
+
+    <string name="golden_lancehead_distribution"><b>Golden Lancehead is Native to the Ilha da Queimada Grande (Snake Island) region of
+    Brazil.</b>\n\nThe Snake primarily inhabits the Moist Forest, Shrubs, and Open Fields.</string>
+
+    <string name="golden_lancehead_scientific_name"><b>Scientific Name: </b>Bothrops insularis</string>
+
+    <string name="golden_lancehead_conservation_status"><b>UN Conservation Status: </b>Critically Endangered Wildlife.</string>
+
+    <string name="golden_lancehead_description"><b>Description: </b>On average Golden Lancehead grows to a length of 70 cm (28 in) and is known
+    to reach 118 cm (46 in). \n\nThe color pattern consists of a pale yellowish-brown ground color, overlaid with a series of dorsal blotches
+    that may be triangular or quadrangular, broad or narrow, and alternating or opposite along the dorsal median. A banded pattern results when
+    the pattern is opposite. The head lacks a well-defined post-orbital stripe. The belly is a uniform pale yellow or cream. \n\n
+    The name \"lancehead\" refers to the distinctive head shape of all snakes in the genus Bothrops, which is somewhat elongated and comes to a
+    point at the nose.</string>
+
+    <!-- ///////////////// Jararacussu ////////////////////////////////// -->
+
+    <string name="jararacussu_distribution"><b>Jararacussu is Native to South America </b>and can be found in Argentina, Brazil, Bolivia,
+    and Paraguay. \n\nThe Snake primarily inhabits Moist Forests.</string>
+
+    <string name="jararacussu_scientific_name"><b>Scientific Name: </b>Bothrops jararacussu</string>
+    
+    <string name="jararacussu_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="jararacussu_common_name">Common Name\'s include Surucucu, Urutu-estrela, Urutu-dourado, Jararacuçu, Surucucu-tapete,
+    Surucucu-dourada, Patrona, and Jararacuçu-verdadeiro</string>
+
+    <!-- ///////////////// Sidewinder /////////////////////////////////// -->
+
+    <string name="sidewinder_distribution"><b>Sidewinder is Native to Southwestern United States and Northern Mexico </b>and can be found in
+    Arizona, Utah, Nevada, California, Sonora, and Baja California. \n\nThe Sidewinder primarily inhabits Open Desert Terrain, with fine
+    Windblown Sand, Desert Flats with Sandy Washes, and Sand Dunes.</string>
+
+    <string name="sidewinder_scientific_name"><b>Scientific Name: </b>Crotalus cerastes</string>
+
+    <string name="sidewinder_conservation_status"><b>UN Conservation Status: </b>Least Concern Wildlife</string>
+
+    <string name="sidewinder_common_name">Common Name\'s include Horned Rattlesnake, Sidewinder Rattler, Mojave Desert Sidewinder, and
+    Sidewinder Rattlesnake</string>
+
+    <string name="sidewinder_description"><b>Description: </b>A small species, adult specimens measure between 43 and 76 cm (17 and 30 in) in
+    length. Most adults are 50&#8211;80 cm (19.5&#8211;31.5 in) in length. The females are larger than the males, which is unusual for this
+    group of snakes. \n\nThe color pattern consists of a ground color that may be cream, buff, yellowish-brown, pink, or ash gray, overlaid
+    with 28&#8211;47 dorsal blotches subrhombic or subelliptical in shape.</string>
+
+</resources>
